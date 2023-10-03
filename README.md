@@ -54,7 +54,15 @@ The sister repository of this one can be found at:
 | :nine: | Advanced | :book: [Deep Learning](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   |  
 | :keycap_ten: | Advanced | :book: [Data Privacy](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   |  
 | :b: | Student Work | :book: [Advanced Topics in Pattern Recognition](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   | 
+| :trophy: | Advanced | :book: [Invited Talk and Discussions](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   | 
 
+
+## References
+
+This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
+
+- [Pattern Classification](https://www.academia.edu/33044855/Pattern_Classiflcation_2nd_ed_), 2nd Edition by Richard O. Duda, Peter E. Hart, and David G. Stork
+- [Research Publications](https://www.tulip.org.au/publication)
 
 ## Contributors 
 
