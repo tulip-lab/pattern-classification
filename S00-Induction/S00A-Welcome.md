@@ -1,9 +1,9 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# :clap: Welcome to SIT742
+# :clap: Welcome to `Pattern Classification`
 
-Welcome to `SIT742`, the unit on `Big Data Analytics`. In this unit, you will have the opportunity to learn fundamental aspects of [Big Data](../M03-BigData/M03A-DataScience.md), modern big data [platforms](../M02-Python/M02A-Platforms.md), techniques and various applications of data science. 
+Welcome to 'Pattern Classification', the unit on 'Pattern Recognition'. In this unit you will have the opportunity to learn basic aspects of automated pattern recognition and related topics such as machine learning techniques and various applications of pattern recognition.
 
 As a master-level unit, SIT742 is designed with flexibility, and there is a great deal of responsibility placed on you to manage your own learning. This unit assumes some prior knowledge in any programming language, but your problem-solving abilities that are much needed. That is, your skills of getting insight into any particular data at hand, are extremely valuable. All the practical materials will be based on [Python programming](https://www.python.org/). In case that you have no prior `Python` experience, I strongly suggest you to start with the preliminary module :book: [Python Foundations](M02-Python/README.md).
 
