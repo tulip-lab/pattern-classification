@@ -32,7 +32,7 @@ Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
 
 ## Content
 
-This course* (aka *unit*) delves into the foundational aspects of automated pattern recognition and its associated subjects, including object characterization. The primary focus is on the fundamental theories and frameworks of statistical pattern recognition, with practical applications in computer vision, social science data analysis, and other relevant domains.
+This *course* (aka *unit*) delves into the foundational aspects of automated pattern recognition and its associated subjects, including object characterization. The primary focus is on the fundamental theories and frameworks of statistical pattern recognition, with practical applications in computer vision, social science data analysis, and other relevant domains.
 
 The initial portion of the course concentrates on generative methods rooted in Bayes decision theory, encompassing techniques for parameter estimation and density estimation. Following that, the course shifts attention towards discriminative methods such as support vector machines, as well as non-parametric techniques, notably nearest-neighbor classification.
 
