@@ -19,7 +19,7 @@
 
 # Pattern Classification
 
-- This *course* (aka *unit* from now on) was originally designed for elite class Bachelor students in some top Asia Pacific universities, including [South East University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), etc (since 2012).
+- This *course* (aka *unit* from now on) was originally designed for various **elite class** Bachelor students in some top Asia Pacific universities, including [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc (since 2012).
 - Materials in this course include resources collected from various open-source online repositories.
 - You are free to use, change and distribute this package.
 - If you found any issue/bug for this document, please submit an issue at [tulip-lab/pattern](https://github.com/tulip-lab/pattern/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/issues)
