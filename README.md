@@ -7,7 +7,7 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01)
 ![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/flip01)
 ![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/flip01/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/sit742)](https://github.com/tulip-lab/flip01/issues)
+[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/pulls) 
 
 
@@ -22,7 +22,7 @@
 - This *course* (aka *unit* from now on) was originally designed for various **elite class** Bachelor students in some top Asia Pacific universities, including [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc (since 2012).
 - Materials in this course include resources collected from various open-source online repositories.
 - You are free to use, change and distribute this package.
-- If you found any issue/bug for this document, please submit an issue at [tulip-lab/pattern](https://github.com/tulip-lab/pattern/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/issues)
+- If you found any issue/bug for this site, please submit an issue at [tulip-lab/pattern](https://github.com/tulip-lab/pattern/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/pulls) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
@@ -52,7 +52,7 @@ You are recommended to use Cloud platform to run the materials, such as:
 
 - [Google Colab](http://colab.research.google.com): which will be used in the practical classes.
 
-The sister repository of this one can be found at: 
+The sister repository of this unit can be found at: 
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01) 
 
 
@@ -60,7 +60,7 @@ The sister repository of this one can be found at:
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
 | :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](M01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
+| :zero: | Preliminary | :book: [Induction](S01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
 | :one: | Foundations | :book: [Math Foundations](M01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
 | :two: | Core | :book: [Bayesian Decision Theory](M02-Python/README.md) | [ULO1, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M02-Exercises.md) |  
 | :three: | Core | :book: [Parameter Estimation](M03-BigData/README.md) | [UL02, UL03](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | 
