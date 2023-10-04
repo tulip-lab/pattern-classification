@@ -9,7 +9,7 @@ Unit team comprises:
 
 | Role | Name  | Contact |
 | -------------- | ------------| ----- | 
-| *Unit Chair* | [Gang Li](https://member.acm.org/~gangli) |   gangli@acm.org  |
+| *Unit Chair* | [Gang Li](https://member.acm.org/~gangli) |   gangli@duck.com  |
 | *Tutor* (2023-SEU) | Jialiang Zhu (朱嘉梁) | TBA |
 
 If you are emailing to the unit team members, please ensure that the subject starts with `[PR-Year]` (replace `Year` by the year such cas 2023, 2024, etc), and clearly describe the inquired session or assessment task etc.
