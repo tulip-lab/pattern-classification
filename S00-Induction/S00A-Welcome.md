@@ -20,10 +20,13 @@ I hope you have an enjoyable and challenging unit, and get as much out of it as 
 <details><summary>:construction:</summary>
 
 ![TTD](https://img.shields.io/badge/Things-To--Do-red) 
-- Welcome Video (Zoom and DeakinAir)
+- Welcome Video
+
+
+>[![Opportunities and Challenges in the Big Data Era](https://img.youtube.com/vi/LpPRhTDvVwE/0.jpg)](https://youtu.be/s4wFoFXNYZU?si=uWME92wlZGsxiWs4   "Opportunities and Challenges in the Big Data Era")
+
 </details>
 
->[![Opportunities and Challenges in the Big Data Era](https://img.youtube.com/vi/LpPRhTDvVwE/0.jpg)](ttps://youtu.be/s4wFoFXNYZU?si=uWME92wlZGsxiWs4   "Opportunities and Challenges in the Big Data Era")
 
 Best wishes
 
