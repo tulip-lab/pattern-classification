@@ -58,6 +58,9 @@ The sister repository of this unit can be found at:
 
 ### Session Plan
 
+This unit needs a total of **48** class hours, including **32** hours teaching, and **16** hours student presentation/discussion. The unit plan is as below:
+
+
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
 | :----: |  :---: | ------|-------| ----- |  
 | :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  

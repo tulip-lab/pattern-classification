@@ -5,7 +5,9 @@
 
 ## :male_detective: Teaching Method
 
-`Pattern Clasification` has shifted the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, project development, in-depth discussions and seminars on various AI  projects. The unit content is structured around the following key aspects:
+`Pattern Clasification` has shifted the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, project development, in-depth discussions and seminars on various AI  projects. 
+
+According to the plan, this unit needs a total of **48** class hours, including **32** hours teaching, and **16** hours student presentation/discussion. The unit content is structured around the following key aspects:
 
 - **Building a strong foundation**: The unit focuses on providing fundamental knowledge of pattern recognition, including Bayesian decision theory, MLE/MAP estimation, non-parametric methods, dimensionality reduction and stochastic methods. By gaining a thorough understanding of these fundamental concepts and principles, students will be equipped to undertake real-world pattern recognition projects.
 
@@ -53,9 +55,9 @@ They are there for those wishing to expand their knowledge or explore specific t
 
 ## :dart: Unit Learning Outcomes 
 
-- **ULO1** - Develop knowledge of pattern recognition in order to select or develop appropriate algorithms and models for given applications; (1, 2, 3)
-- **ULO2** - Use different measures to evaluate the costs and risks associated with different decisions and to identify optimal solutions to specific pattern recognition problems; (4, 5)
-- **ULO3** - Apply pattern recognition techniques in a real-world project, work collaboratively in a team to develop the solution and present the methodology and results for a given scenario; (5, 9, 10)
+- **ULO1** - Develop knowledge of pattern recognition in order to select or develop appropriate algorithms and models for given applications; (GLO1, GLO2, GLO3)
+- **ULO2** - Use different measures to evaluate the costs and risks associated with different decisions and to identify optimal solutions to specific pattern recognition problems; (GLO4, GLO5)
+- **ULO3** - Apply pattern recognition techniques in a real-world project, work collaboratively in a team to develop the solution and present the methodology and results for a given scenario; (GLO5, GLO9, GLO10)
 
 
 ### :medal_sports: Graduate Learning Outcomes
@@ -66,7 +68,7 @@ Different universities have different set of GLOs, for example:
 
 - [Southeast University Graduate Learning Outcomes](http://www.seu.edu.cn) 
 <details>
-<summary>:point_right: GLO for *Southeast University*</summary>
+<summary>:point_right: GLO for Southeast University</summary>
 
 :one: Engineering knowledge: a solid mathematics required in computer engineering, natural sciences, engineering base and expertise to solve complex engineering problems.
 

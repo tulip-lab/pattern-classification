@@ -1,33 +1,31 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-SIT742--CloudFirst-brightgreen)](../README.md)
+[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# SIT742 Unit Assessment
-
-## Modular assessment
+# :sunny: Unit Assessment
 
 The modular structure ties in closely to the unit assessment:
 
-- In order to achieve a `Pass` in this unit, all :three: [core modules](M01C-Logistics.md#core-modules) must be satisfactorily completed.
-- If you would like to achieve a higher grade than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced topics](M01C-Logistics.md#advanced-modules), as well as some higher level study in the extra readings in the core and advanced modules ![Readings](https://img.shields.io/badge/SIT742-Extra--Readings-orange).
+- In order to achieve a `Pass` in this unit, all [core sessions](M00C-Logistics.md#core-sessions) must be satisfactorily completed.
+- If you would like to achieve a higher grade than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](M00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
 
-Structuring the unit assessment this way ensures the grade you receive has a real meaning. A `Pass` reflects that *you have satisfactorily mastered all required learning*, while a higher grade indicates that *you've achieved above and beyond this basic understanding*.
+Structuring the unit assessment this way ensures the grade you receive has a real meaning. A `Pass` reflects that *you have satisfactorily mastered all required learning*, while a higher grade indicates that *you've achieved above and beyond this basic understanding*. Typically, your final grade/mark reflects how much you have achieved in those sessions: 
 
-Explanation of grades
+- `Pass`: Complete all [core sessions](S00C-Logistics.md#core-sessions).
+- `Credit`: Complete all [core sessions](S00C-sessions.md#core-sessions), plus one assessment task which is related to one [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading.
+- `Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus two assessment tasks which are related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading (this includes the ones you would complete for a `Credit`). You must also define and research an additional topic. The teaching team will assist you in validating an appropriate topic for study.
+- `High Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus two assessment tasks which are related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading, plus define and research an additional topic (that is, fulfil all the criteria for a `distinction`). 
+- 
+You must also write a report and present (virtual presentations) on a more advanced topic (which can be the one you studied from the `Distinction`). The teaching team will provide guidance on how to do this. 
 
-- `Pass`: Complete all [core modules](M01C-Logistics.md#core-modules).
-- `Credit`: Complete all [core modules](M01C-Logistics.md#core-modules), plus one assessment task which is related to one [advanced topic](M01C-Logistics.md#advanced-modules) or extra reading.
-- `Distinction`: Complete all [core modules](M01C-Logistics.md#core-modules), plus two assessment tasks which are related to [advanced topics](M01C-Logistics.md#advanced-modules) or extra reading (this includes the ones you would complete for a `Credit`). You must also define and research an additional topic. The teaching team will assist you in validating an appropriate topic for study.
-- `High Distinction`: Complete all [core modules](M01C-Logistics.md#core-modules), plus two assessment tasks which are related to [advanced topics](M01C-Logistics.md#advanced-modules) or extra reading, plus define and research an additional topic (that is, fulfil all the criteria for a `distinction`). You must also write a report and present (virtual presentations) on a more advanced topic (which can be the one you studied from the `Distinction`). The teaching team will provide guidance on how to do this. 
+### :spiral_calendar: Assessment Due Dates
 
-## Assessment Due Dates
+It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
 
-It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future module assessments.
+If you find that you are having trouble meeting your deadlines, speak to the [Head Tutor](S00B-Team.md). 
 
-If you find that you are having trouble meeting your deadlines, speak to the [Head Tutor](M0B-Team.md). 
+So now you have a general idea about what you need to do to pass this unit. 
 
-So now you have a general idea about what SIT742 is and what you need to do to pass this unit. 
-
-## Getting Help
+###  :scream_cat: Getting Help
 
 As mentioned above, the purpose of `CloudFirst` placing the non-interactive components online is to ensure that we can provide you with a greater level of support, particularly if you're feeling stuck. Our aim is for that support to be there at the time you need it. 
 
