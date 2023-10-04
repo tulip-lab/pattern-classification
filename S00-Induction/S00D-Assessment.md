@@ -8,36 +8,34 @@ The modular structure ties in closely to the unit assessment:
 - In order to achieve a `Pass` in this unit, all [core sessions](M00C-Logistics.md#core-sessions) must be satisfactorily completed.
 - If you would like to achieve a higher grade than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](M00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
 
-Structuring the unit assessment this way ensures the grade you receive has a real meaning. A `Pass` reflects that *you have satisfactorily mastered all required learning*, while a higher grade indicates that *you've achieved above and beyond this basic understanding*. Typically, your final grade/mark reflects how much you have achieved in those sessions: 
-
-- `Pass`: Complete all [core sessions](S00C-Logistics.md#core-sessions).
-- `Credit`: Complete all [core sessions](S00C-sessions.md#core-sessions), plus one assessment task which is related to one [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading.
-- `Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus two assessment tasks which are related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading (this includes the ones you would complete for a `Credit`). You must also define and research an additional topic. The teaching team will assist you in validating an appropriate topic for study.
-- `High Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus two assessment tasks which are related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading, plus define and research an additional topic (that is, fulfil all the criteria for a `distinction`). 
-- 
-You must also write a report and present (virtual presentations) on a more advanced topic (which can be the one you studied from the `Distinction`). The teaching team will provide guidance on how to do this. 
-
 ### :spiral_calendar: Assessment Due Dates
 
 It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
 
-If you find that you are having trouble meeting your deadlines, speak to the [Head Tutor](S00B-Team.md). 
+If you find that you are having trouble meeting your deadlines, speak to the [Unit Chair](S00B-Team.md). 
 
-So now you have a general idea about what you need to do to pass this unit. 
+### :u6e80: Grades
+
+The final grade (or mark) you receive has a real meaning. A `Pass` reflects that *you have satisfactorily mastered all required learning*, while a higher grade indicates that *you've achieved above and beyond this basic understanding*. Typically, your final grade/mark reflects how much you have achieved in those sessions: 
+
+- `Pass`: Complete all [core sessions](S00C-Logistics.md#core-sessions).
+- `Credit`: Complete all [core sessions](S00C-sessions.md#core-sessions), plus one [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading.
+- `Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus the assessment task which is related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading (this includes the ones you would complete for a `Credit`), with **satisfactory** performance.
+- `High Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus the assessment task which is related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading, with **outstanding** performance.  You may define and research an additional topic (that is, fulfil all the criteria for a `distinction`), and the teaching team will assist you in validating an appropriate topic for study.
+
+
+You must also write a report and present (virtual presentations) on a more advanced topic (which can be the one you studied from the `Distinction`). The teaching team will provide guidance on how to do this. 
 
 ###  :scream_cat: Getting Help
 
-As mentioned above, the purpose of `CloudFirst` placing the non-interactive components online is to ensure that we can provide you with a greater level of support, particularly if you're feeling stuck. Our aim is for that support to be there at the time you need it. 
-
-It's quite normal to meet some difficulties from time to time. If you already knew how to do everything, there wouldn't be much learning happening, would there? If you are having troubles going through some content, here are some of the things that you can do:
+As mentioned above, we can provide you with a greater level of support, particularly if you're feeling stuck. Our aim is for that support to be there at the time you need it. It's quite normal to meet some difficulties from time to time. If you already knew how to do everything, there wouldn't be much learning happening, would there? If you are having troubles going through some content, here are some of the things that you can do:
 
 #### Have issues with assumed knowledge?
 
 -  Ask it under the relevant topic in the discussion forums (check the previous discussions first: your question might already have been answered)
--  or visit one of the `SIT742 sessions` at [IT Help Hub](https://d2l.deakin.edu.au/d2l/home/965803).
-    - [IT Help Hub](https://d2l.deakin.edu.au/d2l/home/965803) – has a number of `SIT742 sessions`, and they are an integral part of the unit. 
     - If you need class time and tutor support, you are welcome to attend any session, every week. 
-    - You can attend either at your home campus or online.  
+    - You are encouraged to discuss this with the unit chair, who will give you a suitable recommendation.
+
 
 #### Have a question?
 
