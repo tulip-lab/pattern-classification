@@ -19,8 +19,7 @@
 
 ### Unit Materials
 
-
-In this unit, all lecture slides handouts will be provided prior to the class, so that they can prepare in advance and have some question prepared for the lecture sessions. Moreover, the practicals are all available publicly, and students are expected to work on those practicals themselves (especially for deliveries which have no practical allocation).
+In this unit, all lecture slides handouts will be provided prior to the class, so that students can prepare in advance and have some question prepared for the lecture sessions. Moreover, the practicals are all available publicly, and students are expected to work on those practicals themselves (especially for deliveries which have no practical allocation).
 
 Just because we give you a lot of the content in advance, it doesn't mean that we expect you to teach yourself. You do the **learning** – we can't do that part instead of you – but you can still leave the **teaching** to us: you will have ample opportunities to ask questions in the class: **interactive activities** will be done in the weekly lectures and/or practical classes (if with time allocation). For those who can't make it to the live sessions or have urgent questions that can't wait for the next available class, through the discussion forums at GitHub 
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/issues).
@@ -29,31 +28,27 @@ Just because we give you a lot of the content in advance, it doesn't mean that w
 
 To facilitate the study, we have organised the contents into a structure where each session corresponding to one set of classes. In each session, you are provided with the lecture slides handouts, notes as well as practical activities.
 
-Within this unit, you'll find :one: [preliminary module](#preliminary-modules), :three: [core modules](#core-modules) and :one: [advanced modules](#advanced-modules). We'll explain each of these, and how they relate to your unit assessment.
+Within this unit, you'll find [preliminary sessions](#preliminary-sessions), [core sessions](#core-sessions) and [advanced sessions](#advanced-sessions). We'll explain each of these, and how they relate to your unit assessment.
 
-We would like you to go through the modules at the time of your ease, and then work on the `assessment` tasks. The first thing you'll notice when you begin working through the modules is that each has a consistent format, featuring:
+We would like you to go through the sessions at the time of your ease, and then work on the `assessment` tasks. The first thing you'll notice when you begin working through the sessions is that each has a consistent format, especially featuring:
 
-- A `module` `README.md` page: here you'll find the overview for the module. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the module. In order to successfully complete each module, you will need to demonstrate that you have achieved each of these objectives.
-- A series of `topic` pages: these provide the range of learning materials.
-- A series of `learning activities`: these provide the range of learning activities that will enable you to achieve the learning objectives, and those activities are corresponding to the session topic. You are expected to complete those learning activities on your own, but if there is any difficulty, you can ask the tutors in the practical class. 
-- A `practical class` page: which is similar to every year's assessment tasks. More than one task options are available for some modules, and [SIT742 Tutors](M01B-Team.md) will have their own choice of module task option in their practical class. You are highly recommended to work on those tasks prior to the practical class, and then the tutor will go through their own task option with you and show you how to complete those tasks.  
+- A `session` `README.md` page: here you'll find the overview for the session, and most download materials are available through this page. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the session. In order to successfully complete each session, you will need to demonstrate that you have achieved each of these objectives.
 
-### Preliminary Module
+### Preliminary Sessions
 
-SIT742 assumes no prior `Python` experience, and any prior knowledge on programming will be a bonus: if you already have completed several data science units such as `SIT720`, `SIT744`, you should be reasonably confident about your `Python` programming skills.
+We assume no prior `Python` experience, and any prior knowledge on programming will be a bonus: if you already have completed several units such as `machine learing`, `deep learning`, you should be reasonably confident about your `Python` programming skills.
 
-In case that you have no `Python` experience, SIT742 [preliminary module - Module 2](../M02-Python/README.md) will prepare you in this aspect and enable you to continue into the [core modules](#core-modules). 
+In case that you have no `Python` experience, `SIT742` - :book: [Python Foundations](https://github.com/tulip-lab/sit742) will prepare you in this aspect and enable you to continue into the [core sessions](#core-sessions). 
 
-### Core Modules
+### Core Sessions
 
-At the heart of the unit are three core modules. These core modules address the big data concepts and techniques that are relevant and important for data scientists and data analysts. Therefore, it is an essential requirement of this unit that all core modules are completed.
+At the heart of the unit are six core sessions. These core sessions address the statistical pattern recognition techniques that are relevant and important for AI researchers and data analysters. Therefore, it is an essential requirement of this unit that all core sessions are completed.
 
-### Advanced Module
+### Advanced Sessions
 
-In additional to the [core modules](#core-modules), there are also a series of advanced topics. These topics are **optional** and organised into the [advanced module - Module 6](../M06-Advanced/README.md). Those topics either build on the information in the [core modules](#core-modules) by exploring concepts in greater depth, or introduce new, more specialised topics.
+In additional to the [core sessions](#core-sessions), there are also a series of advanced topics. These topics are **optional** and they are either build on the information in the [core sessions](#core-sessions) by exploring concepts in greater depth, or introduce new, more specialised topics.
 
 They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your course, you may like to choose those advanced topics which are most relevant.
-
 
 
 ## :dart: Unit Learning Outcomes 
