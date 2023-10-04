@@ -36,7 +36,7 @@ This *course* (aka *unit*) delves into the foundational aspects of automated pat
 
 The initial portion of the course concentrates on generative methods rooted in Bayes decision theory, encompassing techniques for parameter estimation and density estimation. Following that, the course shifts attention towards discriminative methods such as support vector machines, as well as non-parametric techniques, notably nearest-neighbor classification.
 
-Pattern recognition plays a pivotal role in various applications, such as information retrieval, data mining, multimedia analysis and recognition, computational linguistics, information forensics, biometrics, and bioinformatics. Additionally, this subject introduces additional topics derived from real-world research projects, providing students with practical insights and exposure to contemporary advancements in the field.
+Pattern classification plays a pivotal role in various applications, such as information retrieval, data mining, multimedia analysis and recognition, computational linguistics, information forensics, biometrics, and bioinformatics. Additionally, this subject introduces additional topics derived from real-world research projects, providing students with practical insights and exposure to contemporary advancements in the field.
 
 
 

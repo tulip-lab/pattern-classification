@@ -5,19 +5,17 @@
 
 Welcome to 'Pattern Classification', the unit on 'Pattern Recognition'. In this unit you will have the opportunity to learn basic aspects of automated pattern recognition and related topics such as machine learning techniques and various applications of pattern recognition.
 
-As a master-level unit, SIT742 is designed with flexibility, and there is a great deal of responsibility placed on you to manage your own learning. This unit assumes some prior knowledge in any programming language, but your problem-solving abilities that are much needed. That is, your skills of getting insight into any particular data at hand, are extremely valuable. All the practical materials will be based on [Python programming](https://www.python.org/). In case that you have no prior `Python` experience, I strongly suggest you to start with the preliminary module :book: [Python Foundations](M02-Python/README.md).
+As a unit for elite students, this unit is designed with flexibility, and there is a great deal of responsibility placed on you to manage your own learning. This unit assumes some prior knowledge in any programming language, but your problem-solving abilities that are much needed. That is, your skills of getting insight into any particular data at hand, are extremely valuable. All the practical materials will be based on [Python programming](https://www.python.org/). In case that you have no prior `Python` experience, I strongly suggest you to start with the preliminary module in our sister unit `SIT742` - :book: [Python Foundations](https://github.com/tulip-lab/sit742).
 
-Data scientists have the knack of collecting structured or unstructured data, :book: [Big Data Manipulation](../M04-DataManipulation/README.md) and then constructing various models from it. :book: [Big Data Analytics](M05-DataAnalytics/README.md) is not an easy task, and generally you will become better with experience. It, however, does require a lot of reading, as well as exposure to the implementing of already explored real world cases.
-
-In this unit, we will introduce you to a series of data science techniques. They can be considered *advanced*, or *intermediate* or for some of you, may be *basic*. The motivation for discussing these techniques with you is that it will:
+In this unit, we will introduce you to a series of pattern classification techniques. They can be considered *advanced*, or *intermediate* or for some of you, may be *basic*. The motivation for discussing these techniques with you is that it will:
 
 - give you an understanding of the inner-working of these techniques;
 - help you to structure your thought-process when you design algorithms, so that you can communicate complicated ideas effectively;
-- and give you some experience in devising and planning your own data analysis for any particular dataset.
+- and give you some experience in devising and planning your own pattern recognition or more general AI applications for any particular scenario.
 
-We will discuss the details of the modalities of this unit very soon, but keep in mind that the unit is designed around [`Modules`](../README.md#Modules). We would like you to go through the modules following the [`Recommended Weekly Schedule`](../README.md#recommended-weekly-schedule) at the time of your ease.
+We will discuss the details of the modalities of this unit very soon, but keep in mind that the unit is designed around [`Sessions`](../README.md#Sessions). We would like you to go through the sessions following the [`Recommended Session Schedule`](../README.md#session-plan) at the time of your ease.
 
-I hope you have an enjoyable and challenging trimester, and get as much out of SIT742 as possible. [SIT742 unit team](M01B-Team.md) will help you to achieve it – and I believe that we will all enjoy the journey.
+I hope you have an enjoyable and challenging unit, and get as much out of it as possible. The [unit team](S00B-Team.md) will help you to achieve it – and I believe that we will all enjoy the journey. More broadly, I would like you to start with a YouTube video:
 
 <details><summary>:construction:</summary>
 
@@ -25,7 +23,7 @@ I hope you have an enjoyable and challenging trimester, and get as much out of S
 - Welcome Video (Zoom and DeakinAir)
 </details>
 
->[![Welcome to SIT742](https://img.youtube.com/vi/LpPRhTDvVwE/0.jpg)](https://www.youtube.com/watch?v=LpPRhTDvVwE   "Welcome to SIT742")
+>[![Opportunities and Challenges in the Big Data Era](https://img.youtube.com/vi/LpPRhTDvVwE/0.jpg)](hhttps://youtu.be/s4wFoFXNYZU?si=uWME92wlZGsxiWs4   "Opportunities and Challenges in the Big Data Era")
 
 Best wishes
 
