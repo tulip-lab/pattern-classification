@@ -23,7 +23,7 @@ I hope you have an enjoyable and challenging unit, and get as much out of it as 
 - Welcome Video (Zoom and DeakinAir)
 </details>
 
->[![Opportunities and Challenges in the Big Data Era](https://img.youtube.com/vi/LpPRhTDvVwE/0.jpg)](hhttps://youtu.be/s4wFoFXNYZU?si=uWME92wlZGsxiWs4   "Opportunities and Challenges in the Big Data Era")
+>[![Opportunities and Challenges in the Big Data Era](https://img.youtube.com/vi/LpPRhTDvVwE/0.jpg)](ttps://youtu.be/s4wFoFXNYZU?si=uWME92wlZGsxiWs4   "Opportunities and Challenges in the Big Data Era")
 
 Best wishes
 
