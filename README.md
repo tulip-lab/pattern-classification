@@ -19,7 +19,7 @@
 
 # Pattern Classification
 
-- This course was originally designed for elite class Bachelor students in some top Asia Pacific universities, including [South East University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), etc.
+- This *course* (aka *unit* from now on) was originally designed for elite class Bachelor students in some top Asia Pacific universities, including [South East University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), etc (since 2012).
 - Materials in this course include resources collected from various open-source online repositories.
 - You are free to use, change and distribute this package.
 - If you found any issue/bug for this document, please submit an issue at [tulip-lab/pattern](https://github.com/tulip-lab/pattern/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/issues)
@@ -30,7 +30,23 @@ Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
 
 ---
 
-## Modules
+## Content
+
+This course* (aka *unit*) delves into the foundational aspects of automated pattern recognition and its associated subjects, including object characterization. The primary focus is on the fundamental theories and frameworks of statistical pattern recognition, with practical applications in computer vision, social science data analysis, and other relevant domains.
+
+The initial portion of the course concentrates on generative methods rooted in Bayes decision theory, encompassing techniques for parameter estimation and density estimation. Following that, the course shifts attention towards discriminative methods such as support vector machines, as well as non-parametric techniques, notably nearest-neighbor classification.
+
+Pattern recognition plays a pivotal role in various applications, such as information retrieval, data mining, multimedia analysis and recognition, computational linguistics, information forensics, biometrics, and bioinformatics. Additionally, this subject introduces additional topics derived from real-world research projects, providing students with practical insights and exposure to contemporary advancements in the field.
+
+
+
+## Sessions
+
+Students will have access to a comprehensive range of subject materials, comprising slides handouts, practicals, assessment documents, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content. 
+
+Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
+
+### Practicals
 
 You are recommended to use Cloud platform to run the materials, such as:
 
@@ -39,9 +55,12 @@ You are recommended to use Cloud platform to run the materials, such as:
 The sister repository of this one can be found at: 
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01) 
 
-| :microscope: <br> Module  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
+
+### Session Plan
+
+| :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
 | :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Introduction](M01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
+| :zero: | Preliminary | :book: [Induction](M01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
 | :one: | Foundations | :book: [Math Foundations](M01-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
 | :two: | Core | :book: [Bayesian Decision Theory](M02-Python/README.md) | [ULO1, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M02-Exercises.md) |  
 | :three: | Core | :book: [Parameter Estimation](M03-BigData/README.md) | [UL02, UL03](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | 
@@ -62,7 +81,7 @@ The sister repository of this one can be found at:
 This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
 
 - [Pattern Classification](https://www.academia.edu/33044855/Pattern_Classiflcation_2nd_ed_), 2nd Edition by Richard O. Duda, Peter E. Hart, and David G. Stork
-- [Research Publications](https://www.tulip.org.au/publication)
+- [Research Publications](https://www.tulip.org.au/publication), various resources and readings
 
 ## Contributors 
 
