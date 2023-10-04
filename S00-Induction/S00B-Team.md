@@ -19,7 +19,5 @@ If you are emailing to the unit team members, please ensure that the subject sta
 We encourage all the unit related discussion to be done via GitHub 
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/issues)
 
-https://github.com/tulip-lab/pattern/issues
-
-We may a dedicated channel on *Tencent QQ*  or other platform for each delivery in different universities.
+- We may a dedicated channel on *Tencent QQ*  or other platform for each delivery in different universities. Please watch out for any notice from your local coordinator/tutor.
 

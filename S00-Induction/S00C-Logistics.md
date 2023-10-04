@@ -1,15 +1,47 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-SIT742--CloudFirst-brightgreen)](../README.md)
+[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# SIT742 Unit Logistics
+# Unit Logistics
 
 ## :dart: Unit Learning Outcomes 
 
-- **ULO1** *Develop knowledge of and discuss new and emerging fields in data science*
-- **ULO2** *Describe advanced constituents and underlying theoretical foundation of data science*
-- **ULO3** *Evaluate modern data analytics and its implication in real-world applications*
-- **ULO4** *Use appropriate platform to collect and process relatively large datasets*
-- **ULO5** *Collect, model and conduct inferential as well predictive tasks from data*
+- **ULO1** - Develop knowledge of pattern recognition in order to select or develop appropriate algorithms and models for given applications; (1, 2, 3)
+- **ULO2** - Use different measures to evaluate the costs and risks associated with different decisions and to identify optimal solutions to specific pattern recognition problems; (4, 5)
+- **ULO3** - Apply pattern recognition techniques in a real-world project, work collaboratively in a team to develop the solution and present the methodology and results for a given scenario; (5, 9, 10)
+
+
+### :medal_sports: Graduate Learning Outcomes
+
+Different universities have different set of GLOs, for example:
+
+- [Deakin Graduate Learning Outcomes](https://www.deakin.edu.au/about-deakin/vision-and-values/teaching-and-learning/deakin-graduate-learning-outcomes)
+
+- <details>
+<summary>GLO for [Southeast University](http://www.seu.edu.cn) </summary>
+
+:one:  Engineering knowledge: a solid mathematics required in computer engineering, natural sciences, engineering base and expertise to solve complex engineering problems.
+
+
+:two: Problem Analysis: able to apply the basic principles of mathematics, natural sciences and engineering sciences to identify, express, and through literature research and analysis of complex engineering computer engineering problem to reach a valid conclusion.
+
+:three: Design / development solutions: can integrate the use of theory and techniques to design solutions to complex engineering problems in the field of computer engineering, designed to meet the information access, transmission systems, processing or use of other needs, the unit (member) or process processes, and to reflect the sense of innovation in the design session, taking into account the social, health, safety, legal, cultural and environmental factors.
+
+
+:four: Research: it can be based on scientific principles and scientific methods for complex engineering problems in computer engineering field studies, including design of experiments, analysis and interpretation of data, and through comprehensive information reasonably valid conclusions.
+
+
+:five: Use of modern tools: the ability to solve complex engineering problems in computer engineering, to develop, select and use appropriate technology, resources and modern engineering and information technology tools, including prediction and simulation of complex engineering problems in computer engineering and the ability to understand their limitations.
+
+...
+
+:nine: Individual and Teamwork: the ability to work individually, as a team member and as a responsible member of a multidisciplinary team.
+
+:keycap_ten: Communication: the ability to effectively communicate and exchange complex engineering computer engineering problems with industry peers and the public, including writing reports and design documents, statements speak, articulate or respond to commands. And have some international vision, a
+
+</details>
+
+
+
 
 ## :rocket: A Pioneer `CloudFirst` Unit
 

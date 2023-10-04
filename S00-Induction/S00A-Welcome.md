@@ -31,8 +31,11 @@ Best wishes
 
 <details>
 <summary>Unit Chair</summary>
+
 - :phone: +61(3)92517434
+  
 - :postbox: gangli@duck.com
+
 - :link: https://www.deakin.edu.au/about-deakin/people/gang-li
 </details>
 
