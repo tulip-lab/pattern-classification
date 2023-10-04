@@ -1,9 +1,9 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# Unit Logistics
+# :truck: Unit Logistics
 
-## :rocket: Teaching Method
+## :male_detective: Teaching Method
 
 `Pattern Clasification` has shifted the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, project development, in-depth discussions and seminars on various AI  projects. The unit content is structured around the following key aspects:
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Unit Materials
+### :newspaper_roll: Unit Materials
 
 In this unit, all lecture slides handouts will be provided prior to the class, so that students can prepare in advance and have some question prepared for the lecture sessions. Moreover, the practicals are all available publicly, and students are expected to work on those practicals themselves (especially for deliveries which have no practical allocation).
 
@@ -32,19 +32,19 @@ Within this unit, you'll find [preliminary sessions](#preliminary-sessions), [co
 
 We would like you to go through the sessions at the time of your ease, and then work on the `assessment` tasks. The first thing you'll notice when you begin working through the sessions is that each has a consistent format, especially featuring:
 
-- A `session` `README.md` page: here you'll find the overview for the session, and most download materials are available through this page. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the session. In order to successfully complete each session, you will need to demonstrate that you have achieved each of these objectives.
+- A `session` `README.md` page: here you'll find the overview for the session, and most download materials are available through this page. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the session. In order to successfully complete each session, you will need to ensure that you have achieved each of these objectives.
 
-### Preliminary Sessions
+#### :dolphin: Preliminary Sessions
 
 We assume no prior `Python` experience, and any prior knowledge on programming will be a bonus: if you already have completed several units such as `machine learing`, `deep learning`, you should be reasonably confident about your `Python` programming skills.
 
 In case that you have no `Python` experience, `SIT742` - :book: [Python Foundations](https://github.com/tulip-lab/sit742) will prepare you in this aspect and enable you to continue into the [core sessions](#core-sessions). 
 
-### Core Sessions
+#### :koala: Core Sessions
 
 At the heart of the unit are six core sessions. These core sessions address the statistical pattern recognition techniques that are relevant and important for AI researchers and data analysters. Therefore, it is an essential requirement of this unit that all core sessions are completed.
 
-### Advanced Sessions
+#### :eagle: Advanced Sessions
 
 In additional to the [core sessions](#core-sessions), there are also a series of advanced topics. These topics are **optional** and they are either build on the information in the [core sessions](#core-sessions) by exploring concepts in greater depth, or introduce new, more specialised topics.
 
@@ -66,7 +66,7 @@ Different universities have different set of GLOs, for example:
 
 - [Southeast University Graduate Learning Outcomes](http://www.seu.edu.cn) 
 <details>
-<summary>:point_right: GLO for Southeast University</summary>
+<summary>:point_right: GLO for *Southeast University*</summary>
 
 :one: Engineering knowledge: a solid mathematics required in computer engineering, natural sciences, engineering base and expertise to solve complex engineering problems.
 
