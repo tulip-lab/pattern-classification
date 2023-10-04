@@ -16,10 +16,11 @@ Different universities have different set of GLOs, for example:
 
 - [Deakin Graduate Learning Outcomes](https://www.deakin.edu.au/about-deakin/vision-and-values/teaching-and-learning/deakin-graduate-learning-outcomes)
 
-- <details>
-<summary>GLO for [Southeast University](http://www.seu.edu.cn) </summary>
+- [Southeast University Graduate Learning Outcomes](http://www.seu.edu.cn) 
+<details>
+<summary>:point_right: GLO for Southeast University</summary>
 
-:one:  Engineering knowledge: a solid mathematics required in computer engineering, natural sciences, engineering base and expertise to solve complex engineering problems.
+:one: Engineering knowledge: a solid mathematics required in computer engineering, natural sciences, engineering base and expertise to solve complex engineering problems.
 
 
 :two: Problem Analysis: able to apply the basic principles of mathematics, natural sciences and engineering sciences to identify, express, and through literature research and analysis of complex engineering computer engineering problem to reach a valid conclusion.
