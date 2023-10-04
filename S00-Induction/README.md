@@ -14,4 +14,13 @@ Let's explore this new world of `Pattern Recognition` together!
 | :page_with_curl: [Welcome Message from Unit Chair](S00A-Welcome.md) |
 | :page_with_curl: [Unit Team](S00B-Team.md)
 | :page_with_curl: [Unit Logistics](S00C-Logistics.md)
-| :page_with_curl: [Unit Assessment](S00D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](M01D-Assessment.md#Activity) | 
+| :page_with_curl: [Unit Assessment](S00D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00D-Assessment.md#Activity) | 
+
+
+## Getting Started
+
+In summary, the main message is that the story is about you. You are the learner, so we ask that you participate actively in your own *learning* to achieve your own goals. That does not mean you also have to do the *teaching* – you can leave that part to us. So have a go at the first module – you should find that things will start to make sense after that.
+
+And remember that we are here to support and guide you, ready to jump in if you have a question – just shout out. You are not on your own.
+
+That's the end of the [Session - Induction](README.md). You're now ready to make a start on your first session. All the best for achieving success in this unit.

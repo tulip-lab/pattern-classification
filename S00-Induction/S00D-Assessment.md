@@ -33,34 +33,24 @@ As mentioned above, we can provide you with a greater level of support, particul
 #### Have issues with assumed knowledge?
 
 -  Ask it under the relevant topic in the discussion forums (check the previous discussions first: your question might already have been answered)
-    - If you need class time and tutor support, you are welcome to attend any session, every week. 
-    - You are encouraged to discuss this with the unit chair, who will give you a suitable recommendation.
+- If you need class time and tutor support, you are welcome to attend any session. 
+    - You are encouraged to discuss this with the unit chair, who will give you suitable recommendations.
 
 
 #### Have a question?
 
 - Discussion forums – within the `Discussions` area of [`CloudDeakin`](https://d2l.deakin.edu.au) `SIT742` unit site, you will see a forum for you to post questions for each module, preliminary, core and advanced. You don't have to wait to be in class, or for the next help hub session to ask your question, and you are likely to get a prompt answer by other students or the teaching staff. You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues.
 
-#### Need a study-mate, for motivation or to bounce ideas?
-    
-- [Maths Mentors](https://www.deakin.edu.au/students/studying/study-support/academic-skills/maths-mentors) – fellow Deakin students who are available to help you understand mathematical concepts. You can speak to them in person or online.
-- [Deakin Maths Portal](https://www.deakin.edu.au/students/studying/study-support/academic-skills/maths-portal) that contains a range of resources you can work through in your own time to refresh your maths knowledge, including notes, examples, videos and practice questions.
+#### Need a study-mate, for group work, motivation or to bounce ideas?
 
+- The assessment task might be a group work. In case that a group is needed, you can either post messages in the discussion, or form a group with peers when attending the class or practicals.
 #### Have a more personal issue affecting your studies?
 
-- [`SIT742` teaching team](M01B-Team.md#unit-team-contacts) – you can reach out to the teaching team directly by email, particularly in case of more personal problems.
+- [teaching team](S00B-Team.md#unit-team-contacts) – you can reach out to the teaching team directly by email, particularly in case of more personal problems.
 - Email the unit chair.
 
-## Getting Started
-
-In summary, the main message is that the story is about you. You are the learner, so we ask that you participate actively in your own *learning* to achieve your own goals. That does not mean you also have to do the *teaching* – you can leave that part to us. So have a go at the first module – you should find that things will start to make sense after that.
-
-And remember that we’re here to support and guide you, ready to jump in if you have a question – just shout out. You are not on your own.
-
-That's the end of the [Module - induction](README.md). You're now ready to make a start on your first module. All the best for achieving success in this unit.
 
 ## Activity
 
 ![GitHub watchers](https://img.shields.io/badge/SIT742-Learning--Activity-yellow)
 > 1. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `SIT742` study, and think about forming a team for group assessment. 
-
