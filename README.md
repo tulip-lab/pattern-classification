@@ -1,8 +1,8 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern)
 ![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/Pattern-Classification)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/pattern/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern)](https://github.com/tulip-lab/pattern/pulls) 
+![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/pattern-classification/latest)
+[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern/pulls) 
 
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01)
 ![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/flip01)
