@@ -1,15 +1,19 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# Induction
+# Unit Induction
 
 In this module, you will be introduced to essential information about what the *course* (aka *unit*) on `Pattern Classification` is about, how it is organised, how you will learn, how it is assessed, and what you need to do to get started with your study. It is essential that you work through all information here in order to fully understand how this unit functions.  
 
 Let's explore this new world of `Pattern Recognition` together!
 
-## Handouts
+## Lecture Slides Handouts
+
+- [Lecture A: Unit Introduction](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00A.pdf)
+- [Lecture B: Pattern Recognition Overview](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00B.pdf)
 
 
+Please click on the links above to download the corresponding lecture slides.
 
 ## Topics
 
@@ -27,4 +31,4 @@ In summary, the main message is that the story is about you. You are the learner
 
 And remember that we are here to support and guide you, ready to jump in if you have a question – just shout out. You are not on your own.
 
-That's the end of the [Session - Induction](README.md). You're now ready to make a start on your first session. All the best for achieving success in this unit.
+That's the end of the [Session - Unit Induction](README.md). You're now ready to make a start on your first session. All the best for achieving success in this unit.
