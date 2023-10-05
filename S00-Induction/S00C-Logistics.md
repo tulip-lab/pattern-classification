@@ -55,9 +55,17 @@ They are there for those wishing to expand their knowledge or explore specific t
 
 ## :dart: Unit Learning Outcomes 
 
-- **ULO1** - Develop knowledge of pattern recognition in order to select or develop appropriate algorithms and models for given applications; (GLO1, GLO2, GLO3)
-- **ULO2** - Use different measures to evaluate the costs and risks associated with different decisions and to identify optimal solutions to specific pattern recognition problems; (GLO4, GLO5)
-- **ULO3** - Apply pattern recognition techniques in a real-world project, work collaboratively in a team to develop the solution and present the methodology and results for a given scenario; (GLO5, GLO9, GLO10)
+### **ULO1** 
+
+Develop knowledge of pattern recognition in order to select or develop appropriate algorithms and models for given applications; (GLO1, GLO2, GLO3)
+
+### **ULO2** 
+
+Use different measures to evaluate the costs and risks associated with different decisions and to identify optimal solutions to specific pattern recognition problems; (GLO4, GLO5)
+
+### **ULO3** 
+
+Apply pattern recognition techniques in a real-world project, work collaboratively in a team to develop the solution and present the methodology and results for a given scenario; (GLO5, GLO9, GLO10)
 
 
 ### :medal_sports: Graduate Learning Outcomes

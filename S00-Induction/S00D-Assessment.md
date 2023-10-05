@@ -45,14 +45,14 @@ The group is required to prepare a presentation together with practical material
 - T05: **Component Analysis** 
   - As the extension to principle analysis, there are many other component analysis methods, such as independent component analysis (ICA), Refer to Chapter 10 of the textbook.
 
-##### :mailbox_with_mail: Submission
+##### :mailbox_with_mail: Task :one: Submission
 
 We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
 
-Students are required to submit the Presentation files together with their group details to [unit chair]([S0](S00B-Team.md#contacts)). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn’t receive any acknowledgement, it means that the submission was not received.
+Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn’t receive any acknowledgement, it means that the submission was not received.
 
 - The suggested email subject should be something like: `[PR] Presentation TXX (Group XXX)`. 
-- For large files, you can upload files to any cloud drive such as QQ Drive, Baidu Pan etc., and send me the access URL and password in your submission email.
+- For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
 
 This assignment submission package should include the following components:
 
@@ -62,7 +62,7 @@ This assignment submission package should include the following components:
 - **Readings**: A collection of no more than 5 readings relevant for this topic.
 
 
-##### :triangular_ruler: Rubrics
+##### :triangular_ruler: Task :one: Rubrics
 
 Task :one: will be marked by the following criteria:
 
@@ -75,20 +75,85 @@ will be based on the clarity of the slides:
     - consistency of animation/transitions - not too much as it is a distraction;
     - Use of text colour to highlight important words/phrases for the viewer;
 - 10% will be based on Speaking Coherence/Quality, and it will assess whether the speech flows well:
-    - No or not many umms and ahs, stutters, false starts or tripping over words.
+    - No or not many *umms* and *ahs*, stutters, false starts or tripping over words.
     - The voice would be not a complete monotone - use of inflection and emphasis with the voice - and easy to understand - taking accents and English as a second language into consideration.
 - 10% will be based on quality of visual aids: some demonstration of software, website, or whatever suitable to support the claim in presentation.
-- 10% will be based on timing: full marks for a presentation that fits into the 15-20 minutes ±10% (90 secs). Marks are lost proportionally to the shortness or length out side the range. e.g. a presentation of 13 minutes would be 75 − 80% range likewise 22 minutes.
+- 10% will be based on timing: full marks for a presentation that fits into the 15-20 minutes ±10% (90 secs). Marks are lost proportionally to the shortness or length outside the range. e.g. a presentation of 13 minutes would be 75 − 80% range likewise 22 minutes.
 - 10% will be based on ability to deal with questions: this item is applicable for On campus students only.
 
 Marks will also be allocated for quality audience questions.
 
 ##### :spiral_calendar: Assessment Due Dates
 
-
 It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
 
 If you find that you are having trouble meeting your deadlines, speak to the [Unit Chair](S00B-Team.md). 
+
+
+#### Task :two: - Project (25% + 50%)
+
+The purpose of this task is to help solve a real-world *pattern recognition* or general AI project using (but not limited to) the methods introduced in this unit. This assignment is designed to:
+- help you gain hands-on experience in solving real projects;
+- help you get experience in  academic writing.
+
+In this assignment, you are required to:
+
+1. implement the project as required;
+2. develop a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
+3. deliver a 25 minutes progress presentation on your project (25 marks).
+
+
+You are free to choose any project from the recommended lists as in this site: XXXX.
+
+
+##### :mailbox_with_mail: Task :two: Submission
+
+We will schedule the [presentation startup session](../README.md#session-plan) in the middle of the course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
+
+Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. 
+
+If you didn't receive any acknowledgement, it means that the submission was not received.
+
+- The suggested email subject should be something like: `[PR] Project Work (Group XXX)`. 
+- For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
+
+This task submission package should include the following components:
+
+- **Source Code** with proper comments: The implementation of your project. If the project also requires a testing data set, please submit the predicted testing file in this part.
+- **Slides**: A `PPTX` file of your project presentation.
+- **Report**: A `PDF` file of your project report. Pay attention to the method justification, and model evaluation, most previous students lost marks in those parts.
+- **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to illustrate the running of your project and capture your presentation. This part is *compulsory*. 
+
+
+##### :triangular_ruler: Task :two: Rubrics
+
+The performance of your practise in this project will decide your mark for this component. It is important to develop your best possible method for your chosen project. The project will be assessed based on it performance, as well as the novelty of your proposed/designed methods, and the clarity of your report, which should make up almost entirely of your own writing.
+
+Task :two: will be evaluated according to the following expectations:
+
+- Content It is expected to see
+  - centers on issues or a problem (not just “facts” or summaries);
+  - analyzes and explains significance;
+  - *develops* (does not merely *collect*) information; 
+  - *comments* and *interprets*;
+  - current — may include historical sources but acknowledges the most recent research about the issue;
+  - answers who-what-where-why-when-with what results-so what?
+  - software tools if possible, or a reference to existing research source code
+resources.
+- Readers Awareness defines the area and its related issues in terms of the readers’ needs,
+interests, and viewpoints
+- Organization Well organized report usually have
+  - organized by topics or issues rather than by sources (consider a classification/- partition pattern);
+  - begins with a “problem” and ends with methods, results or significance
+  - headings may reveal the main divisions by indicating subtopics
+- Style a good style means
+  - using lots of concrete words, good action verbs;
+  - the author’s own voice dominates (not a string of quotes);
+
+Final marks also depend on the quality and creativity of your writing, analysis and description of the related work.
+
+
+
 
 #### :u6e80: Grades
 
@@ -106,21 +171,21 @@ You must also write a report and present (virtual presentations) on a more advan
 
 As mentioned above, we can provide you with a greater level of support, particularly if you're feeling stuck. Our aim is for that support to be there at the time you need it. It's quite normal to meet some difficulties from time to time. If you already knew how to do everything, there wouldn't be much learning happening, would there? If you are having troubles going through some content, here are some of the things that you can do:
 
-#### Have issues with assumed knowledge?
+#### :koko: Have issues with assumed knowledge?
 
 -  Ask it under the relevant topic in the discussion forums (check the previous discussions first: your question might already have been answered)
 - If you need class time and tutor support, you are welcome to attend any session. 
     - You are encouraged to discuss this with the unit chair, who will give you suitable recommendations.
 
 
-#### Have a question?
+#### :koko: Have a question?
 
 - Discussion forums – within the `Discussions` area of [`CloudDeakin`](https://d2l.deakin.edu.au) `SIT742` unit site, you will see a forum for you to post questions for each module, preliminary, core and advanced. You don't have to wait to be in class, or for the next help hub session to ask your question, and you are likely to get a prompt answer by other students or the teaching staff. You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues.
 
-#### Need a study-mate, for group work, motivation or to bounce ideas?
+#### :koko: Need a study-mate, for group work, motivation or to bounce ideas?
 
 - The assessment task might be a group work. In case that a group is needed, you can either post messages in the discussion, or form a group with peers when attending the class or practicals.
-#### Have a more personal issue affecting your studies?
+#### :koko: Have a more personal issue affecting your studies?
 
 - [teaching team](S00B-Team.md#unit-team-contacts) – you can reach out to the teaching team directly by email, particularly in case of more personal problems.
 - Email the unit chair.

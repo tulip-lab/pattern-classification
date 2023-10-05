@@ -63,7 +63,7 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
 | :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
+| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00D-Assessment.md#Activity) |  
 | :one: | Foundations | :book: [Math Foundations](S01-Math/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
 | :two: | Core | :book: [Bayesian Decision Theory](M02-Python/README.md) | [ULO1, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M02-Exercises.md) |  
 | :three: | Core | :book: [Parameter Estimation](M03-BigData/README.md) | [UL02, UL03](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | 
@@ -78,6 +78,38 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 | :b: | Student Work | :book: [Advanced Topics in Pattern Recognition](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   | 
 | :trophy: | Advanced | :book: [Invited Talk and Discussions](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   | 
 
+
+### :u6e80: Assessment
+
+The assessment of the unit is mainly aimed at assessing the students' achievement of the unt learning outcomes (ULOs, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit. 
+
+#### :book: Assessment Plan
+
+
+[ULO1](S00-Induction/S00C-Logistics.md#ULO1)
+[ULO2](S00-Induction/S00C-Logistics.md#ULO2)
+[ULO3](S00-Induction/S00C-Logistics.md#ULO3)
+
+The relationship between each assessment task and the ULOs are shown as follows:
+
+| :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
+| :----: |  :---: | ------|-------| ----- |  ----- |  
+| :one: | Presentation | 50%| 25%  |   25%  | **25%** |  
+| :two: | Project |  | 30%  |   70%  |  **50%** |
+| :two: | Report <br> Presentation | 20%| 40%  |  40%  |  **25%** |
+
+
+The detailed assessment specification and marking rubrics can be found at:
+[S00D-Assessment](S00-Induction/S00D-Assessment.md) 
+
+
+#### :spiral_calendar: Submission Due Dates
+
+The final assessment files submissions due date is `Saturday, 11/11/2023`
+
+It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
+
+If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00B-Team.md). 
 
 ## References
 

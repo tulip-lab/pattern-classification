@@ -7,6 +7,10 @@ In this module, you will be introduced to essential information about what the *
 
 Let's explore this new world of `Pattern Recognition` together!
 
+## Handouts
+
+
+
 ## Topics
 
 | Topic         | Learning Activities           |  
