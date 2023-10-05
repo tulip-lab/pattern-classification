@@ -23,14 +23,15 @@ All groups are required to give one 25-minute presentation in this unit. The pre
 The group is required to prepare a presentation together with practical materials and video demonstration, for any of the following topics. Please note that most of the following listed topics are beyond the content covered in the lectures:
 
 - T00: **Variational Inference** 
-  - Variational Inference (VI) is the accurate method for statistical inference. In its mathematical form, VI is similar to EM algorithm, but they serve different purpose. A good reference can be found at: https://link.springer.com/content/pdf/10.1023%2FA%3A1007665907178.pdf
-
+  - Variational Inference (VI) is the accurate method for statistical inference. In its mathematical form, VI is similar to EM algorithm, but they serve different purpose. A good reference can be found at:
+    - Michael I. Jordan, Zoubin Ghahramani, Tommi S. Jaakkola & Lawrence K. Saul. [An Introduction to Variational Methods for Graphical Models](https://link.springer.com/content/pdf/10.1023%2FA%3A1007665907178.pdf), Machine Learning volume 37, pages183–233 (1999) 
 
 - T01: **Markov Chain Monte Carlo** (MCMC) Method 
   - Monte Carlo methods are computational techniques that make use of random numbers. The aims of Monte Carlo methods are to generate samples from a given probability distribution, or to estimate the expectations of functions under this distribution. MCMC is the Monte Carlo methods based on Markov Chain, and currently the state-of-the-art methods is the NUTS method:
-    * M. D. Hoffman, A. Gelman, [The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo](http://arxiv.org/abs/1111.4246) (2011). You can refer to this link for demos: https://chi-feng.github.io/mcmc-demo/.
+    - M. D. Hoffman, A. Gelman, [The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo](http://arxiv.org/abs/1111.4246) (2011). 
+    - You can refer to the demo at: https://chi-feng.github.io/mcmc-demo/.
 
-- T02: **Gaussian Process **
+- T02: **Gaussian Process**
   - Gaussian process is the joint distribution of all those random variables, and as such, it is a distribution over functions with a continuous domain, e.g. time or space. A machine-learning algorithm that involves a Gaussian process uses lazy learning and a measure of the similarity between points to predict the value for an unseen point from training data.
 
 
@@ -44,7 +45,24 @@ The group is required to prepare a presentation together with practical material
 - T05: **Component Analysis** 
   - As the extension to principle analysis, there are many other component analysis methods, such as independent component analysis (ICA), Refer to Chapter 10 of the textbook.
 
-#### :spiral_calendar: Assessment Due Dates
+##### :mailbox_with_mail: Submission
+
+We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
+
+Students are required to submit the Presentation files together with their group details to [unit chair]([S0](S00B-Team.md#contacts)). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn’t receive any acknowledgement, it means that the submission was not received.
+
+- The suggested email subject should be something like: `[PR] Presentation TXX (Group XXX)`. 
+- For large files, you can upload files to any cloud drive such as QQ Drive, Baidu Pan etc., and send me the access URL and password in your submission email.
+
+This assignment submission package should include the following components:
+
+- **Slides**: Slides A PPTX file of your presentation.
+- **Practicals**: Practical materials in the format of Jupyter Notebook, similar to the HMM notebook on GitHub repository FLIP01.
+- **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to capture your presentation together with practicals demo. This  is optional if your group has presented in class.
+- **Readings**: A collection of no more than 5 readings relevant for this topic.
+
+##### :spiral_calendar: Assessment Due Dates
+
 
 It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
 
