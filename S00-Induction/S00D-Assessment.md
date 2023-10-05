@@ -61,6 +61,28 @@ This assignment submission package should include the following components:
 - **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to capture your presentation together with practicals demo. This  is optional if your group has presented in class.
 - **Readings**: A collection of no more than 5 readings relevant for this topic.
 
+
+##### :triangular_ruler: Rubrics
+
+Task :one: will be marked by the following criteria:
+
+- 30% will be based on the content and organization of the presentation
+- 20% will be based on the quality (novelty, accuracy or performance) of the reported project results;
+- 10%
+will be based on the clarity of the slides:
+    - the readability of the slides using the 7 × 7 rule (7 words per line and 7 lines per slide as a rough guide i.e. slides not too cramped with info.) including correct English;
+    - consistency of style (e.g. no more than 2 fonts on each slide and same colours/backgrounds used throughout - generally) and
+    - consistency of animation/transitions - not too much as it is a distraction;
+    - Use of text colour to highlight important words/phrases for the viewer;
+- 10% will be based on Speaking Coherence/Quality, and it will assess whether the speech flows well:
+    - No or not many umms and ahs, stutters, false starts or tripping over words.
+    - The voice would be not a complete monotone - use of inflection and emphasis with the voice - and easy to understand - taking accents and English as a second language into consideration.
+- 10% will be based on quality of visual aids: some demonstration of software, website, or whatever suitable to support the claim in presentation.
+- 10% will be based on timing: full marks for a presentation that fits into the 15-20 minutes ±10% (90 secs). Marks are lost proportionally to the shortness or length out side the range. e.g. a presentation of 13 minutes would be 75 − 80% range likewise 22 minutes.
+- 10% will be based on ability to deal with questions: this item is applicable for On campus students only.
+
+Marks will also be allocated for quality audience questions.
+
 ##### :spiral_calendar: Assessment Due Dates
 
 
