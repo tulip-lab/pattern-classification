@@ -1,5 +1,5 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/Pattern-Classification)
+![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/pattern-classification)
 ![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/pattern-classification/latest)
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern/pulls) 
