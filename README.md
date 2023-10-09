@@ -63,7 +63,7 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
 | :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00D-Assessment.md#Activity) |  
+| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity) |  
 | :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
 | :two: | Core | :book: [Bayesian Decision Theory](M02-Python/README.md) | [ULO1, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   |  
 | :three: | Core | :book: [Parameter Estimation](M03-BigData/README.md) | [UL02, UL03](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |    | 
