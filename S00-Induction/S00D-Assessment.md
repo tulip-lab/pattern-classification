@@ -98,13 +98,16 @@ The purpose of this task is to help solve a real-world *pattern recognition* or 
 
 In this assignment, you are required to:
 
-1. implement the project as required;
-2. develop a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
-3. deliver a 25 minutes progress presentation on your project (25 marks).
+1. Implement the project as required;
+2. Develop a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
+3. Deliver a 25 minutes progress presentation on your project (25 marks).
 
 
-You are free to choose any project from the recommended lists as in this site: XXXX.
+You are free to choose any project from the recommended lists as in this site: 
 
+- [TULIP Open-Projects](https://github.com/tulip-lab/open-projects)
+
+:warning: You can also propose your own projects, subject to unit chair's approval. You may be asked to give a formal presentation on your self proposed project in one of the student presentation sessions. 
 
 ##### :mailbox_with_mail: Task :two: Submission
 
