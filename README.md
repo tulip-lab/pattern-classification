@@ -65,10 +65,10 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 | :----: |  :---: | ------|-------| ----- |  
 | :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00D-Assessment.md#Activity) |  
 | :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :two: | Core | :book: [Bayesian Decision Theory](M02-Python/README.md) | [ULO1, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M02-Exercises.md) |  
-| :three: | Core | :book: [Parameter Estimation](M03-BigData/README.md) | [UL02, UL03](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | 
-| :four: | Core | :book: [Parametric Model](M04-DataManipulation/README.md) | [ULO4, UL05](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M04-Exercises.md)  | 
-| :five: | Core | :book: [Non-Parametric Model](M05-DataAnalytics/README.md) | [ULO4, UL05](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M05-Exercises.md) | 
+| :two: | Core | :book: [Bayesian Decision Theory](M02-Python/README.md) | [ULO1, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   |  
+| :three: | Core | :book: [Parameter Estimation](M03-BigData/README.md) | [UL02, UL03](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |    | 
+| :four: | Core | :book: [Parametric Model](M04-DataManipulation/README.md) | [ULO4, UL05](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   | 
+| :five: | Core | :book: [Non-Parametric Model](M05-DataAnalytics/README.md) | [ULO4, UL05](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   | 
 | :six: | Advanced | :book: [Stochastic Methods](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   |  
 | :a: | Student Work | :book: [Advanced Topics in Pattern Reconngition](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   | 
 | :seven: | Core | :book: [Discriminant Functions](M06-Advanced/README.md) | [UL01, ULO3](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |   |  
@@ -81,14 +81,10 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 
 ### :u6e80: Assessment
 
-The assessment of the unit is mainly aimed at assessing the students' achievement of the unt learning outcomes (ULOs, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit. 
+The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit. 
 
 #### :book: Assessment Plan
 
-
-[ULO1](S00-Induction/S00C-Logistics.md#ULO1)
-[ULO2](S00-Induction/S00C-Logistics.md#ULO2)
-[ULO3](S00-Induction/S00C-Logistics.md#ULO3)
 
 The relationship between each assessment task and the ULOs are shown as follows:
 

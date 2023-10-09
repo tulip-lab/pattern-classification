@@ -1,5 +1,5 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Foundations-orange)](README.md)
+[![GitHub watchers](https://img.shields.io/badge/Module-Decision--Theory-orange)](README.md)
 
 # Bayesian Decision Theory
 
@@ -14,3 +14,5 @@ In this session, we will cover the formulation of `Bayesian Decision Theory`, to
 
 - [Lecture A: Bayesian Decision Theory (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S02A.pdf)
 - [Lecture B: Bayesian Decision Theory (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S02B.pdf) 
+
+
