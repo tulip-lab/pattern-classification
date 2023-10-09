@@ -63,8 +63,8 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
 | :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00D-Assessment.md#Activity) |  
-| :one: | Foundations | :book: [Math Foundations](S01-Math/README.md) | [ULO1](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) |  |  
+| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00D-Assessment.md#Activity) |  
+| :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
 | :two: | Core | :book: [Bayesian Decision Theory](M02-Python/README.md) | [ULO1, ULO2](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M02-Exercises.md) |  
 | :three: | Core | :book: [Parameter Estimation](M03-BigData/README.md) | [UL02, UL03](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | 
 | :four: | Core | :book: [Parametric Model](M04-DataManipulation/README.md) | [ULO4, UL05](M01-Induction/M01C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M04-Exercises.md)  | 
