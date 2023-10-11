@@ -64,20 +64,20 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
 | :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity0) |  
+| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
 | :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
 | :two: | Core | :book: [Bayesian Decision Theory](S02-DecisionTheory/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
 | :three: | Core | :book: [Parameter Estimation](S03-ParameterEstimation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
 | :four: | Core | :book: [Parametric Model](S04-ParametricModels/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
 | :five: | Core | :book: [Non-Parametric Model](S05-NonParametricMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
 | :six: | Advanced | :book: [Stochastic Methods](S06-StochasticMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
-| :a: | Student Work | :book: [Advanced Topics in Pattern Recognition](M06-Advanced/README.md) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity1) | 
+| :a: | Student Work | :book: [Advanced Topics in Pattern Recognition](M06-Advanced/README.md) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
 | :seven: | Core | :book: [Discriminant Functions](S07-DiscriminantFunctions/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
 | :eight: | Core | :book: [Model Evaluation](S08-ModelEvaluation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
 | :nine: | Advanced | :book: [Deep Learning](S09-DeepLearning/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
 | :keycap_ten: | Advanced | :book: [Data Privacy](S10-Privacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)   |   |  
-| :b: | Student Work | :book: [Advanced Topics in Pattern Recognition](M06-Advanced/README.md) |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity2) | 
-| :trophy: | Advanced | :book: [Invited Talk and Discussions] | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity3)  | 
+| :b: | Student Work | :book: [Advanced Topics in Pattern Recognition](M06-Advanced/README.md) |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
+| :trophy: | Advanced | :book: [Invited Talk and Discussions] | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-C)  | 
 
 
 ### :u6e80: Assessment

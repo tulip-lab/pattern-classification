@@ -3,12 +3,12 @@
 
 # :sunny: Unit Assessment
 
-The modular structure ties in closely to the unit assessment:
+The modular structure ties in closely to the unit assessment and your [grade](#u6e80-grades):
 
 - In order to achieve a `Pass` in this unit, all [core sessions](M00C-Logistics.md#core-sessions) must be satisfactorily completed.
-- If you would like to achieve a higher grade than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](M00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
+- If you would like to achieve a higher *grade* (or *mark*) than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](M00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
 
-### :secret: Assessment Specification
+## :secret: Assessment Specification
 
 There will be no examination for this unit, and the final assessment will be mainly based on your group's presentations and your project work. We provide a set of options for the presentations and projects, and you are free to choose any option.
 
@@ -16,7 +16,17 @@ The assessment of the unit primarily focuses on assessing students' attainment o
 
 The tasks below are to be completed in a group of up to 2 or 3 members (confirm this with the unit chair, in every offering). Students are required to familiarize themselves with regulations regarding plagiarism. Information regarding Plagiarism and How to Reference can be found in many universities' website.
 
-#### Task :one: - Advanced Topic Presentation (25%)
+
+### :spiral_calendar: Assessment Due Dates
+
+There is **one** final due date for the assessment tasks submission. Please refer to [Submission Due Date](../README.md#spiral_calendar-submission-due-dates).
+
+- It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
+
+- If you find that you are having trouble meeting your deadlines, speak to the [Unit Chair](S00B-Team.md). 
+
+
+## Task :one: - Advanced Topic Presentation (25%)
 
 All groups are required to give one 25-minute presentation in this unit. The presentation should be on one specified pattern recognition topic.
 
@@ -45,7 +55,7 @@ The group is required to prepare a presentation together with practical material
 - T05: **Component Analysis** 
   - As the extension to principle analysis, there are many other component analysis methods, such as independent component analysis (ICA), Refer to Chapter 10 of the textbook.
 
-##### :mailbox_with_mail: Task :one: Submission
+### :mailbox_with_mail: Task :one: Submission
 
 We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
 
@@ -62,7 +72,7 @@ This assignment submission package should include the following components:
 - **Readings**: A collection of no more than 5 readings relevant for this topic.
 
 
-##### :triangular_ruler: Task :one: Rubrics
+### :triangular_ruler: Task :one: Rubrics
 
 Task :one: will be marked by the following criteria:
 
@@ -83,14 +93,8 @@ will be based on the clarity of the slides:
 
 Marks will also be allocated for quality audience questions.
 
-##### :spiral_calendar: Assessment Due Dates
 
-It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
-
-If you find that you are having trouble meeting your deadlines, speak to the [Unit Chair](S00B-Team.md). 
-
-
-#### Task :two: - Project (25% + 50%)
+## Task :two: - Project (25% + 50%)
 
 The purpose of this task is to help solve a real-world *pattern recognition* or general AI project using (but not limited to) the methods introduced in this unit. This assignment is designed to:
 - help you gain hands-on experience in solving real projects;
@@ -109,7 +113,7 @@ You are free to choose any project from the recommended lists as in this site:
 
 :warning: You can also propose your own projects, subject to unit chair's approval. You may be asked to give a formal presentation on your self proposed project in one of the student presentation sessions. 
 
-##### :mailbox_with_mail: Task :two: Submission
+### :mailbox_with_mail: Task :two: Submission
 
 We will schedule the [presentation startup session](../README.md#session-plan) in the middle of the course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
 
@@ -128,7 +132,7 @@ This task submission package should include the following components:
 - **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to illustrate the running of your project and capture your presentation. This part is *compulsory*. 
 
 
-##### :triangular_ruler: Task :two: Rubrics
+### :triangular_ruler: Task :two: Rubrics
 
 The performance of your practise in this project will decide your mark for this component. It is important to develop your best possible method for your chosen project. The project will be assessed based on it performance, as well as the novelty of your proposed/designed methods, and the clarity of your report, which should make up almost entirely of your own writing.
 
@@ -155,10 +159,7 @@ interests, and viewpoints
 
 Final marks also depend on the quality and creativity of your writing, analysis and description of the related work.
 
-
-
-
-#### :u6e80: Grades
+## :u6e80: Grades
 
 The final grade (or mark) you receive has a real meaning. A `Pass` reflects that *you have satisfactorily mastered all required learning*, while a higher grade indicates that *you've achieved above and beyond this basic understanding*. Typically, your final grade/mark reflects how much you have achieved in those sessions: 
 
@@ -170,22 +171,22 @@ The final grade (or mark) you receive has a real meaning. A `Pass` reflects that
 
 You must also write a report and present (virtual presentations) on a more advanced topic (which can be the one you studied from the `Distinction`). The teaching team will provide guidance on how to do this. 
 
-###  :scream_cat: Getting Help
+##  :scream_cat: Getting Help
 
 As mentioned above, we can provide you with a greater level of support, particularly if you're feeling stuck. Our aim is for that support to be there at the time you need it. It's quite normal to meet some difficulties from time to time. If you already knew how to do everything, there wouldn't be much learning happening, would there? If you are having troubles going through some content, here are some of the things that you can do:
 
-#### :koko: Have issues with assumed knowledge?
+### :koko: Have issues with assumed knowledge?
 
 -  Ask it under the relevant topic in the discussion forums (check the previous discussions first: your question might already have been answered)
 - If you need class time and tutor support, you are welcome to attend any session. 
     - You are encouraged to discuss this with the unit chair, who will give you suitable recommendations.
 
 
-#### :koko: Have a question?
+### :koko: Have a question?
 
 - Discussion forums – within the `Discussions` area of [`CloudDeakin`](https://d2l.deakin.edu.au) `SIT742` unit site, you will see a forum for you to post questions for each module, preliminary, core and advanced. You don't have to wait to be in class, or for the next help hub session to ask your question, and you are likely to get a prompt answer by other students or the teaching staff. You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues.
 
-#### :koko: Need a study-mate, for group work, motivation or to bounce ideas?
+### :koko: Need a study-mate, for group work, motivation or to bounce ideas?
 
 - The assessment task might be a group work. In case that a group is needed, you can either post messages in the discussion, or form a group with peers when attending the class or practicals.
 #### :koko: Have a more personal issue affecting your studies?
@@ -200,20 +201,23 @@ Across the semester (the period of this unit delivery), we will have several ses
 ### Activity 0
 
 ![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> 0. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
+> :o2: Access this year's assessment tasks, make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
 
 
-### Activity 1
-
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> 1. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
-
-
-### Activity 2
+### Activity A
 
 ![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> 2. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
-### Activity 3
+> :a: This is an optional activity scheduled in the middle of the delivery period. Students can either give some short presentation on their planned [Task :one:](#task-one---advanced-topic-presentation-25), or [Task :two:](#task-two---project-25--50).  
+
+
+### Activity B
 
 ![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> 3. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
+> :b: :star: This is compulsory, and project teams/groups are required to give in-class presentation as part of [Task :one:](#task-one---advanced-topic-presentation-25) assessment.  
+### Activity C
+
+![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+> :u6e80: This is another student activity, and project teams/groups are expected to give a presentation with their preliminary results on their [Task :two:](#task-two---project-25--50).  
+> In this session, the unit chair will provide some feedback so that you can further improve the work before the [Assessment Due Dates](#spiral_calendar-assessment-due-dates).
+>
+> 
