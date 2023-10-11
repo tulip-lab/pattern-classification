@@ -7,7 +7,7 @@ In this module, you will be introduced to essential information about what the *
 
 Let's explore this new world of `Pattern Recognition` together!
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: Unit Introduction](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00A.pdf)
 - [Lecture B: Pattern Recognition Overview](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00B.pdf)
@@ -25,7 +25,7 @@ Please click on the links above to download the corresponding lecture slides.
 | :page_with_curl: [Unit Assessment](S00D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/Pattern--Classification-Learning--Activity-yellow)](S00D-Assessment.md#Activity) | 
 
 
-## Getting Started
+## :ski: Getting Started
 
 In summary, the main message is that the story is about you. You are the learner, so we ask that you participate actively in your own *learning* to achieve your own goals. That does not mean you also have to do the *teaching* – you can leave that part to us. So have a go at the first module – you should find that things will start to make sense after that.
 
