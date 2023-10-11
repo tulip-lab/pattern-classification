@@ -200,7 +200,7 @@ As mentioned above, we can provide you with a greater level of support, particul
 - Email the unit chair.
 
 
-## Activities
+## :confetti_ball: Activities
 
 Across the semester (the period of this unit delivery), we will have several sessions for student presentation or other feedback.  
 ### Activity 0

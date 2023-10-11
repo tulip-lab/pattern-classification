@@ -86,8 +86,8 @@ The assessment of the unit is mainly aimed at assessing the students' achievemen
 
 #### :book: Assessment Plan
 
-
-The relationship between each assessment task and the ULOs are shown as follows:
+The detailed assessment specification and marking rubrics can be found at:
+[S00D-Assessment](S00-Induction/S00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows:
 
 | :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
 | :----: |  :---: | ------|-------| ----- |  ----- |  
@@ -96,8 +96,6 @@ The relationship between each assessment task and the ULOs are shown as follows:
 | :two: | Report <br> Presentation | 20%| 40%  |  40%  |  **25%** |
 
 
-The detailed assessment specification and marking rubrics can be found at:
-[S00D-Assessment](S00-Induction/S00D-Assessment.md) 
 
 
 #### :spiral_calendar: Submission Due Dates
@@ -106,7 +104,12 @@ The final assessment files submissions due date is `Saturday, 11/11/2023`
 
 It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
 
-If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00B-Team.md). 
+
+<details><summary> :secret: </summary>
+
+>If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00B-Team.md). 
+</details>
+
 
 ## :books: References
 
