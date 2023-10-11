@@ -111,7 +111,12 @@ You are free to choose any project from the recommended lists as in this site:
 
 - [TULIP Open-Projects](https://github.com/tulip-lab/open-projects)
 
-:warning: You can also propose your own projects, subject to unit chair's approval. You may be asked to give a formal presentation on your self proposed project in one of the student presentation sessions. 
+
+<details><summary> :secret: </summary>
+
+>You can also propose your own projects, subject to unit chair's approval. You may be asked to give a formal presentation on your self proposed project in one of the student presentation sessions. 
+</details>
+
 
 ### :mailbox_with_mail: Task :two: Submission
 

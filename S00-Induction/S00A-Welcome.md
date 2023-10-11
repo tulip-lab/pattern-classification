@@ -16,9 +16,9 @@ We will discuss the details of the modalities of this unit very soon, but keep i
 I hope you find this unit enjoyable, challenging, and rewarding. The [unit team](S00B-Team.md) is here to help you succeed, and we look forward to the journey together. As an introduction, I encourage you to watch this video on the era of big data and expanding opportunities in AI:
 
 
-<details><summary>:construction:</summary>
+<details><summary>:movie_camera:</summary>
 
-![TTD](https://img.shields.io/badge/Things-To--Do-red) 
+![Video](https://img.shields.io/badge/tulip--lab-PR--ScreenVideo-brightgreen) 
 >[![Opportunities and Challenges in the Big Data Era](https://img.youtube.com/vi/LpPRhTDvVwE/0.jpg)](https://youtu.be/s4wFoFXNYZU?si=uWME92wlZGsxiWs4   "Opportunities and Challenges in the Big Data Era")
 </details>
 
