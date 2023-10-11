@@ -5,7 +5,7 @@
 
 In this module, a number of foundational concepts and methods related with `Pattern Classification` will be reviewed. Typically, probability and statistics, linear algebra, optimization are the math foundations for many modern PR methods. It is essential that you work through all information here in order to fully enjoy the later sessions of this unit. 
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 ### Probability and Statistics
 

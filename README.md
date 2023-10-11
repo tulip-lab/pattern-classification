@@ -30,7 +30,7 @@ Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
 
 ---
 
-## Content
+## :bulb: Content
 
 This *course* (aka *unit*) delves into the foundational aspects of automated pattern recognition and its associated subjects, including object characterization. The primary focus is on the fundamental theories and frameworks of statistical pattern recognition, with practical applications in computer vision, social science data analysis, and other relevant domains.
 
@@ -40,13 +40,13 @@ Pattern classification plays a pivotal role in various applications, such as inf
 
 
 
-## Sessions
+## :ledger: Sessions
 
 Students will have access to a comprehensive range of subject materials, comprising slides handouts, practicals, assessment documents, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content. 
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
 
-### Practicals
+### :writing_hand: Practicals
 
 You are recommended to use Cloud platform to run the materials, such as:
 
@@ -56,13 +56,13 @@ The sister repository of this unit can be found at:
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01) 
 
 
-### Session Plan
+### :spiral_calendar: Session Plan
 
 This unit needs a total of **48** class hours, including **32** hours teaching, and **16** hours student presentation/discussion. The unit plan is as below:
 
 
 
-| :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Practicals |  
+| :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Activity |  
 | :----: |  :---: | ------|-------| ----- |  
 | :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
 | :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
@@ -108,14 +108,14 @@ It is expected that you will submit each assessment component on time. You will 
 
 If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00B-Team.md). 
 
-## References
+## :books: References
 
 This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
 
 - [Pattern Classification](https://www.academia.edu/33044855/Pattern_Classiflcation_2nd_ed_), 2nd Edition by Richard O. Duda, Peter E. Hart, and David G. Stork
 - [Research Publications](https://www.tulip.org.au/publication), various resources and readings
 
-## Contributors 
+## :point_right: Contributors 
 
 Thanks goes to these wonderful people :tulip:  
 

@@ -22,9 +22,13 @@ In this session, we will cover several parametric models:
 
 
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: Parametric Models (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S04A.pdf)
 - [Lecture B: Parametric Models (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S04B.pdf) 
 
 
+
+## :writing_hand: Practicals
+
+- [HMM](https://github.com/tulip-lab/flip01/blob/master/F1A-03-HMM.ipynb)

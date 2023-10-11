@@ -17,9 +17,13 @@ Privacy risks refer to the potential threats to individuals' privacy posed by th
 
 Differential privacy techniques, such as adding noise to data, query-based mechanisms, and privacy-preserving machine learning algorithms, help mitigate privacy risks in AI. They enable organizations to leverage sensitive data for AI advancements while safeguarding individuals' privacy rights and reducing the potential for misuse or unauthorized data disclosures.
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: The End of Privacy](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S10A.pdf)
 - [Lecture B: Differential Privacy](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S10B.pdf) 
 
 
+## :writing_hand: Practicals
+
+- [IBM DP Library in 30 seconds](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb)
+- [IBM DP Library for Exploratory Data Analysis](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb)

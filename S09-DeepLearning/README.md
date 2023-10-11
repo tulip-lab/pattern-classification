@@ -11,11 +11,22 @@
 
 Deep learning has revolutionized various fields, including computer vision, natural language processing, speech recognition, and robotics. It has achieved remarkable performance in tasks such as image classification, object detection, machine translation, and speech synthesis. The ability to automatically learn representations and hierarchies of data makes deep learning models highly adaptable and capable of tackling complex real-world problems.
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: Deep Learning (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S09A.pdf)
 - [Lecture B: Deep Learning (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S09B.pdf) 
 - [Lecture C: Convolutional Neural Networks](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S09C.pdf) 
 - [Lecture D: Recurrent Neural Networks](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S09D.pdf) 
+
+
+
+## :writing_hand: Practicals
+
+- [Optimization and Root Finding](https://github.com/tulip-lab/flip01/blob/master/F1A-06-OptimizationandRootFinding.ipynb)
+- [Optimization Algorithms](https://github.com/tulip-lab/flip01/blob/master/F1A-07-AlgorithmsforOptimization.ipynb)
+- [Using Optimization Routines](https://github.com/tulip-lab/flip01/blob/master/F1A-08-UsingOptimizationRoutines.ipynb)
+- [CVXPY Introduction](https://github.com/tulip-lab/flip01/blob/master/F1C-00-IntroductionOfCVXPY.ipynb)
+- [Disciplined Convex Programming](https://github.com/tulip-lab/flip01/blob/master/F1C-01-DisciplinedConvexProgramming..ipynb)
+
 
 

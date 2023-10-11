@@ -18,9 +18,11 @@ In summary, MLE finds the parameters that best fit just the data, while MAP find
 In this session, we will cover the concepts of MLE and MAP, respectively, together with the famous EM algorithm.  
 
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: Parameter Estimation (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S03A.pdf)
 - [Lecture B: Parameter Estimation (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S03B.pdf) 
 
+## :writing_hand: Practicals
 
+- [EM Algorithm](https://github.com/tulip-lab/flip01/blob/master/F1A-02-EM.ipynb)

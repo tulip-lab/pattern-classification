@@ -10,9 +10,14 @@ Nonparametric estimation is a statistical approach that does not rely on specifi
 
 These nonparametric estimation techniques, including histograms, Parzen window, and KNN, provide flexible and data-driven approaches to estimate probability distributions, density functions, or regression functions directly from the data. They are particularly useful when the underlying distribution or relationship is unknown, complex, or difficult to specify parametrically. These techniques have applications in various fields, including data analysis, pattern recognition, machine learning, and exploratory data analysis.
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: Nonparametric estimation (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S05A.pdf)
 - [Lecture B: Nonparametric estimation (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S05B.pdf) 
 
 
+
+## :writing_hand: Practicals
+
+- [Parzen Window](https://github.com/tulip-lab/flip01/blob/master/F1A-04-ParzenWindow.ipynb)
+- [KNN](https://github.com/tulip-lab/flip01/blob/master/F1A-05-KNN.ipynb)

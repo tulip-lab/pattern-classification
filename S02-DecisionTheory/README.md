@@ -10,9 +10,13 @@ Bayesian decision theory formally incorporates prior knowledge and uncertainties
 In this session, we will cover the formulation of `Bayesian Decision Theory`, together with the related terminology and methods, such as `discriminant function`, `decision boundaries`, etc.. 
 
 
-## Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: Bayesian Decision Theory (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S02A.pdf)
 - [Lecture B: Bayesian Decision Theory (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S02B.pdf) 
 
 
+## :writing_hand: Practicals
+
+- [Bayesian](https://github.com/tulip-lab/flip01/blob/master/F1A-00-Bayesian.ipynb)
+- [Decision Boundaries](https://github.com/tulip-lab/flip01/blob/master/F1A-01-DecisionBoundaries.ipynb)
