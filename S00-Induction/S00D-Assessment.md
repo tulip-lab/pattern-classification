@@ -194,7 +194,26 @@ As mentioned above, we can provide you with a greater level of support, particul
 - Email the unit chair.
 
 
-## Activity
+## Activities
 
-![GitHub watchers](https://img.shields.io/badge/SIT742-Learning--Activity-yellow)
+Across the semester (the period of this unit delivery), we will have several sessions for student presentation or other feedback.  
+### Activity 0
+
+![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+> 0. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
+
+
+### Activity 1
+
+![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
 > 1. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
+
+
+### Activity 2
+
+![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+> 2. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
+### Activity 3
+
+![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
+> 3. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
