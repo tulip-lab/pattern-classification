@@ -55,6 +55,9 @@ The group is required to prepare a presentation together with practical material
 - T05: **Component Analysis** 
   - As the extension to principle analysis, there are many other component analysis methods, such as independent component analysis (ICA), Refer to Chapter 10 of the textbook.
 
+- T06: **Chinese Restaurant Problem and Indian Buffet Problem** 
+  - the `Chinese Restaurant Problem` (CRP) and the `Indian Buffet Problem` (IBP) are both probabilistic models used to describe clustering or grouping phenomena. The CRP assigns customers to tables, while the IBP assigns customers to dishes. These models provide different perspectives on the process of assigning objects to clusters and have found applications in various areas, including machine learning, natural language processing, and social network analysis.
+
 ### :mailbox_with_mail: Task :one: Submission
 
 We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
