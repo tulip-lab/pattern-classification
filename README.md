@@ -107,7 +107,7 @@ It is expected that you will submit each assessment component on time. You will 
 
 <details><summary> :secret: </summary>
 
->If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00B-Team.md). 
+>If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00-Induction/S00B-Team.md). 
 </details>
 
 
