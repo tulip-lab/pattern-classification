@@ -20,4 +20,10 @@ In this module, a number of foundational concepts and methods related with `Patt
 - [Lecture F: Matrix Factorization (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01F.pdf)
 - [Lecture G: Matrix Factorization (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01G.pdf)
 
+### Convex Optimization
+
+
+- [Lecture H: Convex Optimization](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP16.pdf)
+
+
 Not all topics will be gone through in the lecture classes, and the unit chair will decide which one(s) to cover, based on the cohort's background and interests. Those topics marked by :star: will be covered in the lecture classes. 

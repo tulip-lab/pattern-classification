@@ -14,7 +14,8 @@ The SVM algorithm involves finding the optimal hyperplane by solving a convex op
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [Lecture A: Discriminant Function](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S07A.pdf)
-- [Lecture B: Support Vector Machine](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S07B.pdf) 
+- [Lecture B: Support Vector Machine (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S07B.pdf) 
+- [Lecture C: Support Vector Machine (2)](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP17.pdf) :accept:
 
 
 
