@@ -7,23 +7,23 @@ In this module, a number of foundational concepts and methods related with `Patt
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-### Probability and Statistics
+### Probability and Statistics :u7981:
 
-- [Lecture A: Probability and Statistics](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01A.pdf) 
+- [Lecture A: Probability and Statistics](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01A.pdf)  :secret:
 - [Lecture B: Bayesian Methods in Machine Learning](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01B.pdf) :ideograph_advantage: :star:
-- [Lecture C: Probability Theory and Inequalities](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01C.pdf)
-- [Lecture D: Statistical Inference](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01D.pdf)
+- [Lecture C: Probability Theory and Inequalities](https://github.com/tulip-lab/handouts/blob/main/Prob/FLIP09.pdf) :secret:
+- [Lecture D: Statistical Inference](https://github.com/tulip-lab/handouts/blob/main/Prob/FLIP10.pdf) :secret:
 
-### Linear Algebra :accept:
+### Linear Algebra :u7981:
 
-- [Lecture E: Linear Model and Matrix](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01E.pdf)
-- [Lecture F: Matrix Factorization (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01F.pdf)
-- [Lecture G: Matrix Factorization (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01G.pdf)
+- [Lecture E: Linear Model and Matrix](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP01.pdf) :secret:
+- [Lecture F: Matrix Factorization (1)](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP02.pdf) :secret:
+- [Lecture G: Matrix Factorization (2)](https://github.com/tulip-lab/handouts/blob/main/LinearAlgebra/FLIP03.pdf) :secret:
+ 
+### Convex Optimization :u7981:
 
-### Convex Optimization :accept:
 
-
-- [Lecture H: Convex Optimization](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01H.pdf)
+- [Lecture H: Convex Optimization](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP16.pdf) :secret:
 
 
 Not all topics will be gone through in the lecture classes, and the unit chair will decide which one(s) to cover, based on the cohort's background and interests. Those topics marked by :star: will be covered in the lecture classes. 

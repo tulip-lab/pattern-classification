@@ -21,11 +21,11 @@ Common techniques for model evaluation include:
 Model evaluation is crucial for understanding how well a trained model is likely to perform on unseen data and for comparing different models or algorithms. It helps in selecting the best model for a given task and identifying areas for improvement or further optimization.
 
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture Slides Handouts :u7981:
 
-- [Lecture A: PAC Learning (1)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S08A.pdf) :accept:
-- [Lecture B: PAC Learning (2)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S08B.pdf) :accept:
-- [Lecture C: PAC Learning (3)](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S08C.pdf) :accept:
+- [Lecture A: PAC Learning (1)](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP11.pdf) :secret:
+- [Lecture B: PAC Learning (2)](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP12.pdf) :secret:
+- [Lecture C: PAC Learning (3)](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP13.pdf) :secret:
 - [Lecture D: Model Evaluation](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S08D.pdf) :ideograph_advantage: :star:
 
 
