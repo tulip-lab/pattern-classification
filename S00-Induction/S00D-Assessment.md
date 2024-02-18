@@ -194,7 +194,7 @@ As mentioned above, we can provide you with a greater level of support, particul
 
 ### :koko: Have a question?
 
-- Discussion forums - within the `Discussions` area of [`CloudDeakin`](https://d2l.deakin.edu.au) `SIT742` unit site, you will see a forum for you to post questions for each module, preliminary, core and advanced. You don't have to wait to be in class, or for the next help hub session to ask your question, and you are likely to get a prompt answer by other students or the teaching staff. You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues.
+- Discussion forums - You don't have to wait to be in class to ask your question, and you are likely to get a prompt answer by other students or the teaching staff. You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues, through the discussion forums at GitHub [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues)
 
 ### :koko: Need a study-mate, for group work, motivation or to bounce ideas?
 
