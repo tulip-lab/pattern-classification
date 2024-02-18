@@ -23,8 +23,8 @@
 - Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package. 
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/pattern-classification](https://github.com/tulip-lab/pattern-classification/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/pulls) 
+- Prerequist unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists) 
 - Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen?style=plastic)](https://github.com/tulip-lab/statistical-machine-learning) 
-
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
 Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
