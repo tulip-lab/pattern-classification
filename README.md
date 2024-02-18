@@ -19,11 +19,12 @@
 
 # Pattern Classification
 
-- This *course* (aka *unit* from now on) was originally designed for various **elite class** Bachelor students in some top Asia Pacific universities, including [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
-- Materials in this course include resources collected from various open-source online repositories.
-- You are free to use, change and distribute this package.
+- This *course* (aka *unit* from now on) was originally designed for various **elite class** Bachelor students or research students in some top Asia Pacific universities, including [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
+- Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package. 
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/pattern-classification](https://github.com/tulip-lab/pattern-classification/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/pulls) 
+- Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen?style=plastic)](https://github.com/tulip-lab/statistical-machine-learning) 
+
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
 Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
@@ -32,7 +33,7 @@ Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
 
 ## :bulb: Content
 
-This *course* (aka *unit*) delves into the foundational aspects of automated pattern recognition and its associated subjects, including object characterization. The primary focus is on the fundamental theories and frameworks of statistical pattern recognition, with practical applications in computer vision, social science data analysis, and other relevant domains.
+This *course* (aka *unit*) delves into the foundational aspects of automated pattern recognition and its associated methods. The primary focus is on the fundamental theories and frameworks of statistical pattern recognition, with practical applications in computer vision, social science data analysis, and other relevant domains.
 
 The initial portion of the course concentrates on generative methods rooted in Bayes decision theory, encompassing techniques for parameter estimation and density estimation. Following that, the course shifts attention towards discriminative methods such as support vector machines, as well as non-parametric techniques, notably nearest-neighbor classification.
 
@@ -82,7 +83,7 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 
 ### :u6e80: Assessment
 
-The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit. 
+The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit.
 
 #### :book: Assessment Plan
 
@@ -94,8 +95,6 @@ The detailed assessment specification and marking rubrics can be found at:
 | :one: | Presentation | 50%| 25%  |   25%  | **25%** |  
 | :two: | Project |  | 30%  |   70%  |  **50%** |
 | :two: | Report <br> Presentation | 20%| 40%  |  40%  |  **25%** |
-
-
 
 
 #### :spiral_calendar: Submission Due Dates
