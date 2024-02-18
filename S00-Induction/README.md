@@ -9,6 +9,7 @@ Let's explore this new world of `Pattern Recognition` together!
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
+- [TULIP Nexus - Path to Excellence](https://github.com/tulip-lab/handouts/blob/main/FLIP20A.pdf)
 - [Lecture A: Unit Introduction](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00A.pdf)
 - [Lecture B: Pattern Recognition Overview](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00B.pdf)
 

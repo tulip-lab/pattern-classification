@@ -7,8 +7,8 @@
 
 The modular structure ties in closely to the unit assessment and your [grade](#u6e80-grades):
 
-- In order to achieve a `Pass` in this unit, all [core sessions](M00C-Logistics.md#core-sessions) must be satisfactorily completed.
-- If you would like to achieve a higher *grade* (or *mark*) than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](M00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
+- In order to achieve a `Pass` in this unit, all [core sessions](S00C-Logistics.md#core-sessions) must be satisfactorily completed.
+- If you would like to achieve a higher *grade* (or *mark*) than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](S00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
 
 ## :secret: Assessment Specification
 
