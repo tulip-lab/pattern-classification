@@ -9,6 +9,7 @@ Let's explore this new world of `Pattern Recognition` together!
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
+- [TULIP Nexus - Path to Excellence](https://github.com/tulip-lab/handouts/blob/main/FLIP20A.pdf)
 - [Lecture A: Unit Introduction](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00A.pdf)
 - [Lecture B: Pattern Recognition Overview](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S00B.pdf)
 
@@ -31,4 +32,3 @@ In summary, the main message is that the story is about you. You are the learner
 
 And remember that we are here to support and guide you, ready to jump in if you have a question - just shout out. You are not on your own.
 
-That's the end of the [Session - Unit Induction](README.md). You're now ready to make a start on your first session. All the best for achieving success in this unit.
