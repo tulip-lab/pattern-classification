@@ -32,4 +32,3 @@ In summary, the main message is that the story is about you. You are the learner
 
 And remember that we are here to support and guide you, ready to jump in if you have a question - just shout out. You are not on your own.
 
-That's the end of the [Session - Unit Induction](README.md). You're now ready to make a start on your first session. All the best for achieving success in this unit.
