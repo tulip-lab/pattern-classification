@@ -99,7 +99,9 @@ The detailed assessment specification and marking rubrics can be found at:
 
 #### :spiral_calendar: Submission Due Dates
 
-- **SEU 2023** - The final assessment files submissions due date is :spiral_calendar: `Saturday, 25/11/2023`, group of **one** member only (**individual** work) for both tasks.
+- **SEU 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 23/11/2024`, group of **No More Than THREE** (1, 2 or 3) members  for both tasks.
+
+- **SEU 2023** - The final assessment files submission due date is :spiral_calendar: `Saturday, 25/11/2023`, group of **ONE** member only (**individual** work) for both tasks.
 
 It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
 
