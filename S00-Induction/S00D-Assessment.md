@@ -30,7 +30,7 @@ There is **one** final due date for the assessment tasks submission. Please refe
 
 ## Task :one: - Advanced Topic Presentation (25%)
 
-All groups are required to give one 25-minute presentation in this unit. The presentation should be on one specified pattern recognition topic.
+All groups are required to give one 25-minute presentation in this unit. The presentation should be on one of the following specified topics.
 
 The group is required to prepare a presentation together with practical materials and video demonstration, for any of the following topics. Please note that most of the following listed topics are beyond the content covered in the lectures:
 
@@ -58,11 +58,23 @@ The group is required to prepare a presentation together with practical material
   - As the extension to principle analysis, there are many other component analysis methods, such as independent component analysis (ICA), Refer to Chapter 10 of the textbook.
 
 - T06: **Chinese Restaurant Problem and Indian Buffet Problem** 
-  - the `Chinese Restaurant Problem` (CRP) and the `Indian Buffet Problem` (IBP) are both probabilistic models used to describe clustering or grouping phenomena. The CRP assigns customers to tables, while the IBP assigns customers to dishes. These models provide different perspectives on the process of assigning objects to clusters and have found applications in various areas, including machine learning, natural language processing, and social network analysis.
+  - The `Chinese Restaurant Problem` (CRP) and the `Indian Buffet Problem` (IBP) are both probabilistic models used to describe clustering or grouping phenomena. 
+  - The CRP assigns customers to tables, while the IBP assigns customers to dishes. 
+  - These models provide different perspectives on the process of assigning objects to clusters and have found applications in various areas, including machine learning, natural language processing, and social network analysis.
+
+- T07: **Quantum Machine Learning**
+  - Quantum Machine Learning (QML) combines quantum computing with classical machine learning (ML) techniques to enhance computational efficiency, especially for complex tasks.
+  - Unlike normal ML, which relies on classical computers, QML leverages quantum principles like superposition and entanglement, enabling faster processing and solving problems that are computationally expensive or intractable for classical ML models.
 
 ### :mailbox_with_mail: Task :one: Submission
 
+#### 1. In-Class Presentation
+
 We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
+
+- **SEU 2024** - The final presentation will be in the classes on :spiral_calendar: `Saturday, 26/10/2024`. The group will present together. 
+
+#### 2. Presentation Files Submission
 
 Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn't receive any acknowledgement, it means that the submission was not received.
 
@@ -114,7 +126,7 @@ In this assignment, you are required to:
 
 You are free to choose any project from the recommended lists as in this site: 
 
-- [TULIP Open-Projects](https://github.com/tulip-lab/open-projects)
+- [TULIP Open-Projects](https://github.com/tulip-lab/open-projects) (especially P02, P03, N03, N04)
 
 
 <details><summary> :secret: </summary>
