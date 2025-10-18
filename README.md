@@ -99,7 +99,7 @@ The detailed assessment specification and marking rubrics can be found at:
 
 #### :spiral_calendar: Submission Due Dates
 
-- **SRM 2025** - Details to be announced...
+- **SEU 2025** - The final assessment files submission due date is :spiral_calendar: `Saturday, 22/11/2025`, group of **No More Than 3** members for both tasks.
 
 
 - **NJUST 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 11/01/2025`, group of **ONE** member only (**individual** work) for task one.

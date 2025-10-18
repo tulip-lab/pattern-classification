@@ -3,6 +3,8 @@
 
 # :sunny: Unit Assessment
 
+:point_right: This version of this document is for **SEU-PR2025**.
+
 :point_right: Your university might have different setting for assessment. Please contact your [coordinator](S00B-Team.md#contacts).
 
 The modular structure ties in closely to the unit assessment and your [grade](#u6e80-grades):
@@ -54,8 +56,10 @@ The group is required to prepare a presentation together with practical material
 - T04: **No Free Lunch** Theorem 
   - It is impossible to find a classifier which is superior to all other classifiers. Under what kind of scenario, we can construct a classifier using the given data set? Refer to Chapter 9 of the textbook.
 
-- T05: **Component Analysis** 
-  - As the extension to principle analysis, there are many other component analysis methods, such as independent component analysis (ICA), Refer to Chapter 10 of the textbook.
+- T05: **Topological Data Analysis** 
+  - Topological Data Analysis (TDA) is an emerging field at the intersection of algebraic topology, geometry, and data science, designed to extract shape-related features from complex, high-dimensional data. Unlike classical statistical or machine learning approaches that rely on coordinate-based representations, TDA focuses on topological invariants—properties that remain unchanged under continuous transformations such as stretching or bending. This makes TDA highly robust to noise, deformations, and sampling variability.
+    - [Topological Data Analysis and Topological Deep Learning Beyond Persistent Homology - A Review](https://arxiv.org/abs/2507.19504) by Zhe Su et al. (arXiv:2507.19504) — Very recent survey covering extensions of persistent homology and links to deep learning.
+
 
 - T06: **Chinese Restaurant Problem and Indian Buffet Problem** 
   - The `Chinese Restaurant Problem` (CRP) and the `Indian Buffet Problem` (IBP) are both probabilistic models used to describe clustering or grouping phenomena. 
@@ -72,7 +76,7 @@ The group is required to prepare a presentation together with practical material
 
 We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
 
-- **SEU 2024** - The final presentation will be in the classes on :spiral_calendar: `Saturday, 26/10/2024`. The group will present together. 
+- **SEU 2025** - The final presentation will be in the classes on :spiral_calendar: `Saturday, 01/11/2025`, and also optionally on `Friday, 31/10/2025`. The group will present together. :point_right: You MUST register your time-slot via this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=Qr2-Kf_xPUyWiAZ-NGDcH29DfMc7BWJKuK8HTvwBHjhUNlYzNzVSOEJLNzlBRElKU0dZWjY5QjZDMy4u).
 
 #### 2. Presentation Files Submission
 
@@ -115,7 +119,7 @@ Marks will also be allocated for quality audience questions.
 
 The purpose of this task is to help solve a real-world *pattern recognition* or general AI project using (but not limited to) the methods introduced in this unit. This assignment is designed to:
 - help you gain hands-on experience in solving real projects;
-- help you get experience in  academic writing.
+- help you get experience in academic writing.
 
 In this assignment, you are required to:
 
@@ -127,6 +131,7 @@ In this assignment, you are required to:
 You are free to choose any project from the recommended lists as in this site: 
 
 - [TULIP Open-Projects](https://github.com/tulip-lab/open-projects) (especially P02, P03, N03, N04)
+- Any kind of **Privacy Attack** on a public available data set using Pattern Discovery algorithm, or other AI algorithm.
 
 
 <details><summary> :secret: </summary>
