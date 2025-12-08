@@ -3,7 +3,7 @@
 
 # Data Privacy
 
-Privacy risks refer to the potential threats to individuals' privacy posed by the collection, processing, and utilization of personal data in artificial intelligence systems. As AI technologies become more pervasive and data-intensive, privacy concerns have become increasingly important.Here are some key privacy risks in AI:
+Privacy risks refer to the potential threats to individuals' privacy posed by the collection, processing, and utilization of personal data in artificial intelligence systems. As AI technologies become more pervasive and data-intensive, privacy concerns have become increasingly important. Here are some key privacy risks in AI:
 
 1. Data Leakage: AI systems often require access to large amounts of data, which can include sensitive personal information. The risk of data leakage arises when unauthorized access or breaches occur, leading to exposure of personal data to unintended parties.
 

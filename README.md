@@ -85,9 +85,9 @@ This unit needs a total of **48** class hours, including **32** hours teaching, 
 
 The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit.
 
-#### :book: Assessment Plan
+#### :book: Assessment Guidelines
 
-The detailed assessment specification and marking rubrics can be found at:
+The assessment overview and submission guidelines can be found at:
 [S00D-Assessment](S00-Induction/S00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows:
 
 | :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
@@ -98,6 +98,14 @@ The detailed assessment specification and marking rubrics can be found at:
 
 
 #### :spiral_calendar: Submission Due Dates
+
+- **NJUST 2025** - The final assessment specification can be found [here](Assessment/NJUST2025.md), and the submission due date is :spiral_calendar: `Saturday, 10/01/2026`, group of **No More Than 3** members for both tasks.
+
+- **SEU 2025** -The final assessment specification can be found [here](Assessment/SEU2025.md), and the submission due date is  :spiral_calendar: `Saturday, 22/11/2025`, group of **No More Than 3** members for both tasks.
+
+
+- **NJUST 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 11/01/2025`, group of **ONE** member only (**individual** work) for task one.
+
 
 - **SEU 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 23/11/2024`, group of **No More Than THREE** (1, 2 or 3) members  for both tasks.
 
@@ -114,10 +122,10 @@ It is expected that you will submit each assessment component on time. You will 
 
 ## :books: References
 
-This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
+This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.academy/members)**:
 
 - [Pattern Classification](https://www.academia.edu/33044855/Pattern_Classiflcation_2nd_ed_), 2nd Edition by Richard O. Duda, Peter E. Hart, and David G. Stork
-- [Research Publications](https://www.tulip.org.au/publication), various resources and readings
+- [Research Publications](https://www.tulip.academy/publication), various resources and readings
 
 ## :point_right: Contributors 
 
