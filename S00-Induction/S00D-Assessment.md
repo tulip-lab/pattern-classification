@@ -1,9 +1,7 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# :sunny: Unit Assessment
-
-:point_right: This version of this document is for **SEU-PR2025**.
+# :sunny: Unit Assessment Guidelines
 
 :point_right: Your university might have different setting for assessment. Please contact your [coordinator](S00B-Team.md#contacts).
 
@@ -11,180 +9,6 @@ The modular structure ties in closely to the unit assessment and your [grade](#u
 
 - In order to achieve a `Pass` in this unit, all [core sessions](S00C-Logistics.md#core-sessions) must be satisfactorily completed.
 - If you would like to achieve a higher *grade* (or *mark*) than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced sessions](S00C-Logistics.md#advanced-sessions), as well as some higher level study in the extra readings in the core and advanced modules.
-
-## :secret: Assessment Specification
-
-There will be no examination for this unit, and the final assessment will be mainly based on your group's presentations and your project work. We provide a set of options for the presentations and projects, and you are free to choose any option.
-
-The assessment of the unit primarily focuses on assessing students' attainment of the [unit learning outcomes](S00C-Logistics.md#dart-unit-learning-outcomes)  and their proficiency in applying the covered algorithms/models and theories. 
-
-The tasks below are to be completed in a group of up to 2 or 3 members (confirm this with the unit chair, in every offering). Students are required to familiarize themselves with regulations regarding plagiarism. Information regarding Plagiarism and How to Reference can be found in many universities' website.
-
-
-### :spiral_calendar: Assessment Due Dates
-
-There is **one** final due date for the assessment tasks submission. Please refer to [Submission Due Date](../README.md#spiral_calendar-submission-due-dates).
-
-- It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
-
-- If you find that you are having trouble meeting your deadlines, speak to the [Unit Chair](S00B-Team.md). 
-
-
-## Task :one: - Advanced Topic Presentation (25%)
-
-All groups are required to give one 25-minute presentation in this unit. The presentation should be on one of the following specified topics.
-
-The group is required to prepare a presentation together with practical materials and video demonstration, for any of the following topics. Please note that most of the following listed topics are beyond the content covered in the lectures:
-
-- T00: **Variational Inference** 
-  - Variational Inference (VI) is the accurate method for statistical inference. In its mathematical form, VI is similar to EM algorithm, but they serve different purpose. A good reference can be found at:
-    - Michael I. Jordan, Zoubin Ghahramani, Tommi S. Jaakkola & Lawrence K. Saul. [An Introduction to Variational Methods for Graphical Models](https://link.springer.com/content/pdf/10.1023%2FA%3A1007665907178.pdf), Machine Learning volume 37, pages183-233 (1999) 
-
-- T01: **Markov Chain Monte Carlo** (MCMC) Method 
-  - Monte Carlo methods are computational techniques that make use of random numbers. The aims of Monte Carlo methods are to generate samples from a given probability distribution, or to estimate the expectations of functions under this distribution. MCMC is the Monte Carlo methods based on Markov Chain, and currently the state-of-the-art methods is the NUTS method:
-    - M. D. Hoffman, A. Gelman, [The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo](http://arxiv.org/abs/1111.4246) (2011). 
-    - You can refer to the demo at: https://chi-feng.github.io/mcmc-demo/.
-
-- T02: **Gaussian Process**
-  - Gaussian process is the joint distribution of all those random variables, and as such, it is a distribution over functions with a continuous domain, e.g. time or space. A machine-learning algorithm that involves a Gaussian process uses lazy learning and a measure of the similarity between points to predict the value for an unseen point from training data.
-
-
-- T03: **Bayesian Optimization** 
-  - Bayesian optimization is a sequential design strategy for global optimization of black-box functions that does not assume any functional forms. It is usually employed to optimize expensive-to-evaluate functions, understanding this will benefit the training of large scale neural networks.
-
-
-- T04: **No Free Lunch** Theorem 
-  - It is impossible to find a classifier which is superior to all other classifiers. Under what kind of scenario, we can construct a classifier using the given data set? Refer to Chapter 9 of the textbook.
-
-- T05: **Topological Data Analysis** 
-  - Topological Data Analysis (TDA) is an emerging field at the intersection of algebraic topology, geometry, and data science, designed to extract shape-related features from complex, high-dimensional data. Unlike classical statistical or machine learning approaches that rely on coordinate-based representations, TDA focuses on topological invariants—properties that remain unchanged under continuous transformations such as stretching or bending. This makes TDA highly robust to noise, deformations, and sampling variability.
-    - [Topological Data Analysis and Topological Deep Learning Beyond Persistent Homology - A Review](https://arxiv.org/abs/2507.19504) by Zhe Su et al. (arXiv:2507.19504) — Very recent survey covering extensions of persistent homology and links to deep learning.
-
-
-- T06: **Chinese Restaurant Problem and Indian Buffet Problem** 
-  - The `Chinese Restaurant Problem` (CRP) and the `Indian Buffet Problem` (IBP) are both probabilistic models used to describe clustering or grouping phenomena. 
-  - The CRP assigns customers to tables, while the IBP assigns customers to dishes. 
-  - These models provide different perspectives on the process of assigning objects to clusters and have found applications in various areas, including machine learning, natural language processing, and social network analysis.
-
-- T07: **Quantum Machine Learning**
-  - Quantum Machine Learning (QML) combines quantum computing with classical machine learning (ML) techniques to enhance computational efficiency, especially for complex tasks.
-  - Unlike normal ML, which relies on classical computers, QML leverages quantum principles like superposition and entanglement, enabling faster processing and solving problems that are computationally expensive or intractable for classical ML models.
-
-### :mailbox_with_mail: Task :one: Submission
-
-#### 1. In-Class Presentation
-
-We will schedule the [presentation session](../README.md#session-plan) close to the end of this year's course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
-
-- **SEU 2025** - The final presentation will be in the classes on :spiral_calendar: `Saturday, 01/11/2025`, and also optionally on `Friday, 31/10/2025`. The group will present together. :point_right: You MUST register your time-slot via this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=Qr2-Kf_xPUyWiAZ-NGDcH29DfMc7BWJKuK8HTvwBHjhUNlYzNzVSOEJLNzlBRElKU0dZWjY5QjZDMy4u).
-
-#### 2. Presentation Files Submission
-
-Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn't receive any acknowledgement, it means that the submission was not received.
-
-- The suggested email subject should be something like: `[PR] Presentation TXX (Group XXX)`. 
-- For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
-
-This assignment submission package should include the following components:
-
-- **Slides**: Slides A PPTX file of your presentation.
-- **Practicals**: Practical materials in the format of Jupyter Notebook, similar to the HMM notebook on GitHub repository FLIP01.
-- **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to capture your presentation together with practicals demo. This  is optional if your group has presented in class.
-- **Readings**: A collection of no more than 5 readings relevant for this topic.
-
-
-### :triangular_ruler: Task :one: Rubrics
-
-Task :one: will be marked by the following criteria:
-
-- 30% will be based on the content and organization of the presentation
-- 20% will be based on the quality (novelty, accuracy or performance) of the reported project results;
-- 10%
-will be based on the clarity of the slides:
-    - the readability of the slides using the 7 × 7 rule (7 words per line and 7 lines per slide as a rough guide i.e. slides not too cramped with info.) including correct English;
-    - consistency of style (e.g. no more than 2 fonts on each slide and same colours/backgrounds used throughout - generally) and
-    - consistency of animation/transitions - not too much as it is a distraction;
-    - Use of text colour to highlight important words/phrases for the viewer;
-- 10% will be based on Speaking Coherence/Quality, and it will assess whether the speech flows well:
-    - No or not many *umms* and *ahs*, stutters, false starts or tripping over words.
-    - The voice would be not a complete monotone - use of inflection and emphasis with the voice - and easy to understand - taking accents and English as a second language into consideration.
-- 10% will be based on quality of visual aids: some demonstration of software, website, or whatever suitable to support the claim in presentation.
-- 10% will be based on timing: full marks for a presentation that fits into the 15-20 minutes ±10% (90 secs). Marks are lost proportionally to the shortness or length outside the range. e.g. a presentation of 13 minutes would be 75 − 80% range likewise 22 minutes.
-- 10% will be based on ability to deal with questions: this item is applicable for On campus students only.
-
-Marks will also be allocated for quality audience questions.
-
-
-## Task :two: - Project (25% + 50%)
-
-The purpose of this task is to help solve a real-world *pattern recognition* or general AI project using (but not limited to) the methods introduced in this unit. This assignment is designed to:
-- help you gain hands-on experience in solving real projects;
-- help you get experience in academic writing.
-
-In this assignment, you are required to:
-
-1. Implement the project as required;
-2. Develop a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
-3. Deliver a 25 minutes progress presentation on your project (25 marks).
-
-
-You are free to choose any project from the recommended lists as in this site: 
-
-- [TULIP Open-Projects](https://github.com/tulip-lab/open-projects) (especially P02, P03, N03, N04)
-- Any kind of **Privacy Attack** on a public available data set using Pattern Discovery algorithm, or other AI algorithm.
-
-
-<details><summary> :secret: </summary>
-
->You can also propose your own projects, subject to unit chair's approval. You may be asked to give a formal presentation on your self proposed project in one of the student presentation sessions. 
-</details>
-
-
-### :mailbox_with_mail: Task :two: Submission
-
-We will schedule the [presentation startup session](../README.md#session-plan) in the middle of the course delivery. Your group will be required to give an in-class presentation. The teaching team will provide feedback and comments so that the group can improve the work accordingly.
-
-Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. 
-
-If you didn't receive any acknowledgement, it means that the submission was not received.
-
-- The suggested email subject should be something like: `[PR] Project Work (Group XXX)`. 
-- For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
-
-This task submission package should include the following components:
-
-- **Source Code** with proper comments: The implementation of your project. If the project also requires a testing data set, please submit the predicted testing file in this part.
-- **Slides**: A `PPTX` file of your project presentation.
-- **Report**: A `PDF` file of your project report. Pay attention to the method justification, and model evaluation, most previous students lost marks in those parts.
-- **ScreenCast** or **Voice Annotated Presentation** (Optional): You can include a screen cast video to illustrate the running of your project and capture your presentation. This part is *compulsory*. 
-
-
-### :triangular_ruler: Task :two: Rubrics
-
-The performance of your practise in this project will decide your mark for this component. It is important to develop your best possible method for your chosen project. The project will be assessed based on it performance, as well as the novelty of your proposed/designed methods, and the clarity of your report, which should make up almost entirely of your own writing.
-
-Task :two: will be evaluated according to the following expectations:
-
-- Content It is expected to see
-  - centers on issues or a problem (not just *facts* or summaries);
-  - analyzes and explains significance;
-  - *develops* (does not merely *collect*) information; 
-  - *comments* and *interprets*;
-  - current — may include historical sources but acknowledges the most recent research about the issue;
-  - answers who-what-where-why-when-with what results-so what?
-  - software tools if possible, or a reference to existing research source code
-resources.
-- Readers Awareness defines the area and its related issues in terms of the readers' needs,
-interests, and viewpoints
-- Organization Well organized report usually have
-  - organized by topics or issues rather than by sources (consider a classification/- partition pattern);
-  - begins with a problem and ends with methods, results or significance
-  - headings may reveal the main divisions by indicating subtopics
-- Style a good style means
-  - using lots of concrete words, good action verbs;
-  - the author's own voice dominates (not a string of quotes);
-
-Final marks also depend on the quality and creativity of your writing, analysis and description of the related work.
 
 ## :u6e80: Grades
 
@@ -197,6 +21,76 @@ The final grade (or mark) you receive has a real meaning. A `Pass` reflects that
 
 
 You must also write a report and present (virtual presentations) on a more advanced topic (which can be the one you studied from the `Distinction`). The teaching team will provide guidance on how to do this. 
+
+
+<a id="guidelines"></a>
+
+## :confetti_ball: Guidelines for Assignment Submission
+
+To ensure your assignment is received, accessible, and correctly recorded, please follow all guidelines below when submitting your work via email.
+
+- Upon receipt of your submission, you will receive an email acknowledgement from the Unit Chair within 24 hours.
+
+
+
+### :koko:  Use a Clear and Informative Subject Line
+
+Your email subject must clearly identify the unit, assignment, and your group or student ID, such as 
+
+**[NJUST-PR2025] [Presentation] - [Your Full Name & Student ID]**
+
+or 
+
+**[NJUST-PR2025] [Project] - [Your Full Name & Student ID]**
+
+
+### :koko:  Include Complete Student Identification
+
+In both the email body and the attached files, include:
+
+- Full Names of all group members  
+- Student IDs of all group members
+
+Submissions without proper identification may not be graded.
+
+
+### :koko:  Organize Your Files Properly
+
+All materials (video, PPT, code, report, etc.) must be placed in a clearly named folder *before compression*.
+
+- Use a **single ZIP file** with a clear name:  
+  **[UnitCode]_[Assignment]_[Name]_[StudentID].zip**
+- Do **not** send loose or disorganized files.
+- Use clear subfolders if needed (e.g., `/video`, `/code`, `/report`).
+
+
+### :koko:  Ensure the Report is Complete and Well-Documented
+
+Your report must include:
+- Title page with student information  
+- Introduction / problem statement  
+- Methodology and system design  
+- Experiments / results (if applicable)  
+- Discussion  
+- References  
+
+Submitting only code or an incomplete document will be considered an **incomplete submission**.
+
+### :koko:  Do Not Send Large Attachments Directly in Email
+
+Follow these restrictions:
+
+- Files **larger than 20 MB** must be submitted via approved cloud storage:
+  - OneDrive  
+  - Google Drive  
+  - Dropbox 
+  -   -  
+- **Not allowed:** Baidu Drive, Tencent/QQ Drive, 123Pan, or other region-restricted platforms.
+- Ensure cloud links have correct access permissions ("Anyone with the link can view").
+
+**Total compressed file size must be less than 200 MB.**
+
+---
 
 ##  :scream_cat: Getting Help
 
@@ -220,31 +114,3 @@ As mentioned above, we can provide you with a greater level of support, particul
 
 - [teaching team](S00B-Team.md#unit-team-contacts) - you can reach out to the teaching team directly by email, particularly in case of more personal problems.
 - Email the unit chair.
-
-
-## :confetti_ball: Activities
-
-Across the semester (the period of this unit delivery), we will have several sessions for student presentation or other feedback.  
-### Activity 0
-
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> :o2: Access this year's assessment tasks, make a study plan for your `Pattern Classification` study, and think about forming a team for group assessment. 
-
-
-### Activity A
-
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> :a: This is an optional activity scheduled in the middle of the delivery period. Students can either give some short presentation on their planned [Task :one:](#task-one---advanced-topic-presentation-25), or [Task :two:](#task-two---project-25--50).  
-
-
-### Activity B
-
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> :b: :star: This is compulsory, and project teams/groups are required to give in-class presentation as part of [Task :one:](#task-one---advanced-topic-presentation-25) assessment.  
-### Activity C
-
-![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)
-> :u6e80: This is another student activity, and project teams/groups are expected to give a presentation with their preliminary results on their [Task :two:](#task-two---project-25--50).  
-> In this session, the unit chair will provide some feedback so that you can further improve the work before the [Assessment Due Dates](#spiral_calendar-assessment-due-dates).
->
-> 
