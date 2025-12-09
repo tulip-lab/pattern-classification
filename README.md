@@ -99,7 +99,7 @@ The assessment overview and submission guidelines can be found at:
 
 #### :spiral_calendar: Submission Due Dates
 
-- **NJUST 2025** - The final assessment specification can be found [here](Assessment/NJUST2025.md), and the submission due date is :spiral_calendar: `Saturday, 10/01/2026`, group of **No More Than 3** members for both tasks.
+- **NJUST 2025** - The final assessment specification can be found [here](Assessment/NJUST2025.md), and the submission due date is :spiral_calendar: `Saturday, 10/01/2026`, group of **No More Than 2** members for both tasks.
 
 - **SEU 2025** -The final assessment specification can be found [here](Assessment/SEU2025.md), and the submission due date is  :spiral_calendar: `Saturday, 22/11/2025`, group of **No More Than 3** members for both tasks.
 
