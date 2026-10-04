@@ -1,140 +1,65 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/pattern-classification)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/pattern-classification/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/pulls) 
-
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/flip01)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/flip01/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/flip01)](https://github.com/tulip-lab/flip01/pulls) 
-
-
-[![GitHub watchers](https://img.shields.io/github/watchers/tulip-lab/pattern.svg?style=social&label=Watch)](https://GitHub.com/tulip-lab/pattern/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/tulip-lab/pattern.svg?style=social&label=Fork)](https://GitHub.com/tulip-lab/pattern/network/)
-[![GitHub stars](https://img.shields.io/github/stars/tulip-lab/pattern.svg?style=social&label=Star)](https://GitHub.com/tulip-lab/pattern/stargazers/)
-
-----
-
 # Pattern Classification
 
-- This *course* (aka *unit* from now on) was originally designed for various **elite class** Bachelor students or research students in some top Asia Pacific universities, including [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
-- Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package. 
-- If you found any issue/bug for this site, please submit an issue at [tulip-lab/pattern-classification](https://github.com/tulip-lab/pattern-classification/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues)
-- Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/pulls) 
-- Prerequist unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists) 
-- Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen?style=plastic)](https://github.com/tulip-lab/statistical-machine-learning) 
-- Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
+This public repository provides the institution-neutral common core for a
+course in statistical pattern classification. It separates reusable learning
+content from university- and teaching-period-specific delivery information.
 
-Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
+The course develops a progression from probability and Bayesian decision
+theory through parameter and density estimation, probabilistic models,
+nonparametric methods, discriminant functions, model evaluation, deep learning,
+and privacy-aware classification.
 
----
+Prepared by [TULIP Lab](https://www.tulip.academy), Australia.
 
-## :bulb: Content
+## Start here
 
-This *course* (aka *unit*) delves into the foundational aspects of automated pattern recognition and its associated methods. The primary focus is on the fundamental theories and frameworks of statistical pattern recognition, with practical applications in computer vision, social science data analysis, and other relevant domains.
+- [Common-core purpose, learning outcomes, and alignment](COMMON-CORE.md)
+- [Shared-hub and offering governance](HUB-GOVERNANCE.md)
+- [Institution and teaching-period offerings](offerings/README.md)
+- [Assessment index](assessments/README.md)
+- [Licensing and third-party material](LICENSING.md)
+- [Public practical repository](https://github.com/tulip-lab/pattern-classification-lab)
 
-The initial portion of the course concentrates on generative methods rooted in Bayes decision theory, encompassing techniques for parameter estimation and density estimation. Following that, the course shifts attention towards discriminative methods such as support vector machines, as well as non-parametric techniques, notably nearest-neighbor classification.
+## Common-core modules
 
-Pattern classification plays a pivotal role in various applications, such as information retrieval, data mining, multimedia analysis and recognition, computational linguistics, information forensics, biometrics, and bioinformatics. Additionally, this subject introduces additional topics derived from real-world research projects, providing students with practical insights and exposure to contemporary advancements in the field.
+| Module | Category | Topic |
+| --- | --- | --- |
+| M01 | Orientation | [Induction](M01-Induction/README.md) |
+| M02 | Foundation | [Mathematical Foundations](M02-Foundations/README.md) |
+| M03 | Core | [Bayesian Decision Theory](M03-Decision-Theory/README.md) |
+| M04 | Core | [Parameter Estimation](M04-Parameter-Estimation/README.md) |
+| M05 | Core | [Parametric Models](M05-Parametric-Models/README.md) |
+| M06 | Core | [Nonparametric Methods](M06-Nonparametric-Methods/README.md) |
+| M07 | Advanced | [Stochastic Methods](M07-Stochastic-Methods/README.md) |
+| M08 | Core | [Discriminant Functions](M08-Discriminant-Functions/README.md) |
+| M09 | Core | [Model Evaluation](M09-Model-Evaluation/README.md) |
+| M10 | Advanced | [Deep Learning](M10-Deep-Learning/README.md) |
+| M11 | Advanced | [Privacy](M11-Privacy/README.md) |
 
+An offering may select, sequence, or supplement these modules. Its actual
+schedule, assessment weights, dates, submission channel, collaboration rules,
+and institution policy must be stated in that offering's page.
 
+## Practical learning
 
-## :ledger: Sessions
+Public notebooks, code, data, and student practical activities are maintained
+in the separate
+[Pattern Classification Lab](https://github.com/tulip-lab/pattern-classification-lab)
+repository. Some module pages still identify legacy `flip01` resources while
+eight public-native practical candidates cover M02–M09. The
+Lab's [pairing map](https://github.com/tulip-lab/pattern-classification-lab/blob/develop/PRACTICAL-MAP.md)
+records exact coverage and gaps. External legacy links are provenance
+references rather than common-core artefacts.
 
-Students will have access to a comprehensive range of subject materials, comprising slides handouts, practicals, assessment documents, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content. 
+## Public-repository safety
 
-Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
+Do not commit student submissions, grades, identifiable feedback, credentials,
+private datasets, unpublished solutions, marking guides, private teaching
+notes, or restricted links. Report content or link issues through the
+[repository issue tracker](https://github.com/tulip-lab/pattern-classification/issues).
 
-### :writing_hand: Practicals
+## Related learning
 
-You are recommended to use Cloud platform to run the materials, such as:
-
-- [Google Colab](http://colab.research.google.com): which will be used in the practical classes.
-
-The sister repository of this unit can be found at: 
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01) 
-
-
-### :spiral_calendar: Session Plan
-
-This unit needs a total of **48** class hours, including **32** hours teaching, and **16** hours student presentation/discussion. The unit plan is as below:
-
-
-
-| :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Activity |  
-| :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
-| :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :two: | Core | :book: [Bayesian Decision Theory](S02-DecisionTheory/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :three: | Core | :book: [Parameter Estimation](S03-ParameterEstimation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
-| :four: | Core | :book: [Parametric Model](S04-ParametricModels/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :five: | Core | :book: [Non-Parametric Model](S05-NonParametricMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :six: | Advanced | :book: [Stochastic Methods](S06-StochasticMethods/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
-| :a: | Student Work | :book: [Advanced Topics in Pattern Recognition](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
-| :seven: | Core | :book: [Discriminant Functions](S07-DiscriminantFunctions/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :eight: | Core | :book: [Model Evaluation](S08-ModelEvaluation/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
-| :nine: | Advanced | :book: [Deep Learning](S09-DeepLearning/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
-| :keycap_ten: | Advanced | :book: [Data Privacy](S10-Privacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)   |   |  
-| :b: | Student Work | :book: [Advanced Topics in Pattern Recognition](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25)  |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
-| :trophy: | Advanced | :book: [Invited Talk and Discussions] | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  [![GitHub watchers](https://img.shields.io/badge/PR-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-C)  | 
-
-
-### :u6e80: Assessment
-
-The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those algorithms/models and theory covered in the unit.
-
-#### :book: Assessment Guidelines
-
-The assessment overview and submission guidelines can be found at:
-[S00D-Assessment](S00-Induction/S00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows:
-
-| :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
-| :----: |  :---: | ------|-------| ----- |  ----- |  
-| :one: | Presentation | 50%| 25%  |   25%  | **25%** |  
-| :two: | Project |  | 30%  |   70%  |  **50%** |
-| :two: | Report <br> Presentation | 20%| 40%  |  40%  |  **25%** |
-
-
-#### :spiral_calendar: Submission Due Dates
-
-- **NJUST 2025** - The final assessment specification can be found [here](Assessment/NJUST2025.md), and the submission due date is :spiral_calendar: `Saturday, 10/01/2026`, group of **No More Than 2** members for both tasks.
-
-- **SEU 2025** -The final assessment specification can be found [here](Assessment/SEU2025.md), and the submission due date is  :spiral_calendar: `Saturday, 22/11/2025`, group of **No More Than 3** members for both tasks.
-
-
-- **NJUST 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 11/01/2025`, group of **ONE** member only (**individual** work) for task one.
-
-
-- **SEU 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 23/11/2024`, group of **No More Than THREE** (1, 2 or 3) members  for both tasks.
-
-- **SEU 2023** - The final assessment files submission due date is :spiral_calendar: `Saturday, 25/11/2023`, group of **ONE** member only (**individual** work) for both tasks.
-
-It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
-
-
-<details><summary> :secret: </summary>
-
->If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00-Induction/S00B-Team.md). 
-</details>
-
-
-## :books: References
-
-This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.academy/members)**:
-
-- [Pattern Classification](https://www.academia.edu/33044855/Pattern_Classiflcation_2nd_ed_), 2nd Edition by Richard O. Duda, Peter E. Hart, and David G. Stork
-- [Research Publications](https://www.tulip.academy/publication), various resources and readings
-
-## :point_right: Contributors 
-
-Thanks goes to these wonderful people :tulip:  
-
-
-<a href="https://github.com/tulip-lab/FLIP01/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tulip-lab/FLIP01" />
-</a>
-
-
-Made with [contributors-img](https://contrib.rocks).
+- Prerequisite support: [Mathematical Foundations for Data Scientists](https://github.com/tulip-lab/math-foundation-for-data-scientists)
+- Related practical foundations: [Modern Data Science](https://github.com/tulip-lab/modern-data-science)
+- Subsequent theory: [Statistical Machine Learning](https://github.com/tulip-lab/statistical-machine-learning)

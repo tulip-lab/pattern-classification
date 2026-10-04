@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "institution": "seu",
+  "unit": "pattern-classification",
+  "offering": "2025",
+  "status": "archived",
+  "common_core_modules": ["M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "M11"],
+  "public_assessment_brief": "assessment.md"
+}
