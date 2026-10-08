@@ -37,5 +37,8 @@ review. No notebook is yet canonical in the Pattern Classification Lab.
 
 ## Supporting handouts
 
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
+
 - [The End of Privacy](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP20.pdf)
 - [Differential Privacy](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP22.pdf)

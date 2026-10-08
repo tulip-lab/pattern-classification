@@ -33,6 +33,9 @@ validation and learning curves, and a held-out evaluation. Formal
 PAC-learning activities remain optional extension work rather than a
 prerequisite for this practical.
 
-## Public handout
+## Lecture handout
+
+This downloadable PDF is password-protected. The password is supplied in class
+when the handout is introduced.
 
 - [Model Evaluation](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S08D.pdf)

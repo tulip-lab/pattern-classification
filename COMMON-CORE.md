@@ -36,7 +36,7 @@ After completing the relevant modules, learners should be able to:
 | M07 Stochastic Methods | Simulation, MCMC, and stochastic optimisation | CLO2, CLO3 |
 | M08 Discriminant Functions | Linear and kernel discriminants, including SVMs | CLO3 |
 | M09 Model Evaluation | Validation, metrics, comparison, and generalisation | CLO4 |
-| M10 Deep Learning | Representation learning for image and sequence patterns | CLO3, CLO4 |
+| M10 Large Language Models and Agentic AI | LLM outputs, agent decisions, tool use, failure analysis, and evaluation | CLO3, CLO4, CLO6 |
 | M11 Privacy | Privacy risks and privacy-aware analysis | CLO6 |
 
 ## Constructive alignment
