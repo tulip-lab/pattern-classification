@@ -27,7 +27,10 @@ After completing this module, learners should be able to:
 fits a linear logistic discriminant and compares linear and radial-basis SVMs
 through cross-validation evidence.
 
-## Public handouts
+## Lecture handouts
+
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
 
 - [Discriminant Functions](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S07A.pdf)
 - [Support Vector Machines](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S07B.pdf)

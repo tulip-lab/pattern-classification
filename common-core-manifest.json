@@ -4,6 +4,9 @@
   "module_ids": ["M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "M11"],
   "canonical_repository": "pattern-classification",
   "practical_repository": "pattern-classification-lab",
+  "practical_repository_url": "https://github.com/tulip-lab/pattern-classification-lab",
+  "practical_repository_branch": "develop",
+  "practical_module_path_pattern": "M<nn>-<module-name>",
   "offering_path_pattern": "offerings/<institution>/<unit>/<offering>",
   "current_active_offerings": []
 }

@@ -1,65 +1,58 @@
-# Pattern Classification
+[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/pattern-classification)](https://github.com/tulip-lab/pattern-classification/pulls) [![GitHub stars](https://img.shields.io/github/stars/tulip-lab/pattern-classification.svg?style=social&label=Star)](https://github.com/tulip-lab/pattern-classification/stargazers/) [![Companion Lab](https://img.shields.io/badge/companion-Pattern_Classification_Lab-1f6feb?logo=github)](https://github.com/tulip-lab/pattern-classification-lab)
 
-This public repository provides the institution-neutral common core for a
-course in statistical pattern classification. It separates reusable learning
-content from university- and teaching-period-specific delivery information.
+---
 
-The course develops a progression from probability and Bayesian decision
-theory through parameter and density estimation, probabilistic models,
-nonparametric methods, discriminant functions, model evaluation, deep learning,
-and privacy-aware classification.
+![FLIP Banner](https://raw.githubusercontent.com/tulip-lab/pattern-classification-lab/develop/Assets/images/flip-banner.png)
 
-Prepared by [TULIP Lab](https://www.tulip.academy), Australia.
+# FLIP: Pattern Classification
 
-## Start here
+FLIP stands for **Fundamentals of Learning and Intelligent Processing**. This open course from [TULIP Lab](https://www.tulip.academy) develops the theory, implementation, and evaluation skills needed to build trustworthy statistical pattern-classification systems.
 
-- [Common-core purpose, learning outcomes, and alignment](COMMON-CORE.md)
-- [Shared-hub and offering governance](HUB-GOVERNANCE.md)
-- [Institution and teaching-period offerings](offerings/README.md)
-- [Assessment index](assessments/README.md)
-- [Licensing and third-party material](LICENSING.md)
-- [Public practical repository](https://github.com/tulip-lab/pattern-classification-lab)
+> The common core and Lab materials on the `develop` branches are under active development. An institution-specific offering becomes authoritative only when its offering page is explicitly marked active.
 
-## Common-core modules
+## Current offering
 
-| Module | Category | Topic |
+The current 2026 SEU offering is:
+
+- [SEU Pattern Classification 2026](offerings/seu/pattern-classification/2026/README.md)
+
+## Prerequisites
+
+You should be comfortable with introductory probability and statistics, linear algebra, basic Python, and interpreting tables and visualisations. Prior machine-learning experience is useful but not required.
+
+## Course outcomes
+
+After completing the relevant modules, you should be able to:
+
+1. **Explain** uncertainty, loss, risk, and decision boundaries in Bayesian pattern classification.
+2. **Estimate** model parameters and probability densities using appropriate parametric, nonparametric, and stochastic methods.
+3. **Implement and compare** selected generative and discriminative classifiers for appropriately scoped data problems.
+4. **Evaluate** classification systems using suitable validation designs, metrics, error analysis, and evidence about uncertainty and limitations.
+5. **Design and communicate** a reproducible pattern-classification solution with justified modelling choices and clear interpretation.
+6. **Assess** privacy, fairness, provenance, responsible AI use, and other risks arising in pattern data and models.
+
+## Modules
+
+Linked lecture handouts are distributed as password-protected files. Download the relevant file first, then use the password supplied for that part of the course during class. Do not post or redistribute handout passwords publicly.
+
+| Module | Conceptual overview | Public practical |
 | --- | --- | --- |
-| M01 | Orientation | [Induction](M01-Induction/README.md) |
-| M02 | Foundation | [Mathematical Foundations](M02-Foundations/README.md) |
-| M03 | Core | [Bayesian Decision Theory](M03-Decision-Theory/README.md) |
-| M04 | Core | [Parameter Estimation](M04-Parameter-Estimation/README.md) |
-| M05 | Core | [Parametric Models](M05-Parametric-Models/README.md) |
-| M06 | Core | [Nonparametric Methods](M06-Nonparametric-Methods/README.md) |
-| M07 | Advanced | [Stochastic Methods](M07-Stochastic-Methods/README.md) |
-| M08 | Core | [Discriminant Functions](M08-Discriminant-Functions/README.md) |
-| M09 | Core | [Model Evaluation](M09-Model-Evaluation/README.md) |
-| M10 | Advanced | [Deep Learning](M10-Deep-Learning/README.md) |
-| M11 | Advanced | [Privacy](M11-Privacy/README.md) |
+| M01 | [Induction](M01-Induction/README.md) | [Orientation](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M01-Induction) |
+| M02 | [Mathematical Foundations](M02-Foundations/README.md) | [Classification workflow and features](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M02-Foundations) |
+| M03 | [Bayesian Decision Theory](M03-Decision-Theory/README.md) | [Bayesian decisions and boundaries](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M03-Decision-Theory) |
+| M04 | [Parameter Estimation](M04-Parameter-Estimation/README.md) | [MLE, MAP, and EM](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M04-Parameter-Estimation) |
+| M05 | [Parametric Models](M05-Parametric-Models/README.md) | [HMM and Naive Bayes](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M05-Parametric-Models) |
+| M06 | [Nonparametric Methods](M06-Nonparametric-Methods/README.md) | [Parzen windows and KNN](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M06-Nonparametric-Methods) |
+| M07 | [Stochastic Methods](M07-Stochastic-Methods/README.md) | [Simulation to decision](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M07-Stochastic-Methods) |
+| M08 | [Discriminant Functions](M08-Discriminant-Functions/README.md) | [Optimisation and SVM](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M08-Discriminant-Functions) |
+| M09 | [Model Evaluation](M09-Model-Evaluation/README.md) | [Model selection and generalisation](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M09-Model-Evaluation) |
+| M10 | [Large Language Models and Agentic AI](M10-LLM-Agentic-AI/README.md) | [Selected Agentic AI practicals](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M10-LLM-Agentic-AI) |
+| M11 | [Privacy](M11-Privacy/README.md) | [Privacy practical status](https://github.com/tulip-lab/pattern-classification-lab/tree/develop/M11-Privacy) |
 
-An offering may select, sequence, or supplement these modules. Its actual
-schedule, assessment weights, dates, submission channel, collaboration rules,
-and institution policy must be stated in that offering's page.
+The sequence moves from mathematical and decision foundations through estimation and model families to stochastic methods, discriminants, evaluation, large language models and agentic AI, and privacy-aware practice.
 
-## Practical learning
+## Responsible practice
 
-Public notebooks, code, data, and student practical activities are maintained
-in the separate
-[Pattern Classification Lab](https://github.com/tulip-lab/pattern-classification-lab)
-repository. Some module pages still identify legacy `flip01` resources while
-eight public-native practical candidates cover M02–M09. The
-Lab's [pairing map](https://github.com/tulip-lab/pattern-classification-lab/blob/develop/PRACTICAL-MAP.md)
-records exact coverage and gaps. External legacy links are provenance
-references rather than common-core artefacts.
+Never commit credentials, personal data, private course material, hidden assessment data, solutions, or unreviewed model output. Use approved public or synthetic data, validate inputs and results, test failure behaviour, and retain human review for consequential decisions.
 
-## Public-repository safety
-
-Do not commit student submissions, grades, identifiable feedback, credentials,
-private datasets, unpublished solutions, marking guides, private teaching
-notes, or restricted links. Report content or link issues through the
-[repository issue tracker](https://github.com/tulip-lab/pattern-classification/issues).
-
-## Related learning
-
-- Prerequisite support: [Mathematical Foundations for Data Scientists](https://github.com/tulip-lab/math-foundation-for-data-scientists)
-- Related practical foundations: [Modern Data Science](https://github.com/tulip-lab/modern-data-science)
-- Subsequent theory: [Statistical Machine Learning](https://github.com/tulip-lab/statistical-machine-learning)
+Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy), Australia**

@@ -35,7 +35,10 @@ uses a leakage-safe pipeline to connect mathematical quantities to features,
 model fitting, validation, and a held-out evaluation. It prepares learners to
 reason about assumptions before M03 introduces explicit loss and risk.
 
-## Public handouts
+## Lecture handouts
+
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
 
 - [Probability and Statistics](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01A.pdf)
 - [Bayesian Methods in Machine Learning](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S01B.pdf)

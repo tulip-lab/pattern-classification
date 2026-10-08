@@ -11,6 +11,11 @@ This repository has two public layers:
 
 The stable common-core entry points are `M01-Induction/` through `M11-Privacy/`.
 
+The public Lab repository is the primary student-facing working site. It owns
+the mutable practical chapters and notebooks, public assignment packages, issue
+tracking, and pull-request workflow. This repository owns the stable common
+core, module identities, learning outcomes, and public offering index.
+
 ## Common-core rules
 
 Common-core content must use institution-neutral language, observable learning
@@ -43,6 +48,10 @@ content is canonical here. Public-native practical content is canonical in the
 Lab repository. Assessment and offering material promoted from the private
 Instructor repository is a reviewed public snapshot and must retain its source
 identity and release status.
+
+Student and community improvements to practical material should be proposed as
+pull requests in the Lab repository. Do not duplicate an editable Lab artefact
+inside the common core or use a public pull request to submit assessed work.
 
 ## Release boundary
 

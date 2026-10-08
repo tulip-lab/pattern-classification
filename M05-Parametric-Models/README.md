@@ -31,7 +31,10 @@ contrasts conditional-independence assumptions and implements log-space
 Viterbi decoding. A Bayesian-network practical remains a recorded coverage
 gap.
 
-## Public handouts
+## Lecture handouts
+
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
 
 - [Parametric Models I](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S04A.pdf)
 - [Parametric Models II](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S04B.pdf)

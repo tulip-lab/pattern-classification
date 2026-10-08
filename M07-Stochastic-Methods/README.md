@@ -9,7 +9,10 @@ Stochastic methods are computational techniques used to model and analyze system
 
 Stochastic methods are valuable in various fields, including machine learning, optimization, physics, finance, and many other domains where uncertainty and randomness play a significant role. They offer powerful tools for tackling complex problems by simulating or approximating random processes, sampling from probability distributions, and optimizing functions under uncertainty.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
+## :notebook_with_decorative_cover: Lecture handouts
+
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
 
 - [Lecture A: MCMC Methods](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S06A.pdf) :u7a7a:
 - [Lecture B: Bayesian Optimization](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S06B.pdf)  :u7a7a:

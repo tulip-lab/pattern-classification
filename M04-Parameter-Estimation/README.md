@@ -28,7 +28,10 @@ After completing this module, learners should be able to:
 compares likelihood-only and prior-regularised estimates before fitting a
 Gaussian mixture and testing EM initialisation sensitivity.
 
-## Public handouts
+## Lecture handouts
+
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
 
 - [Parameter Estimation I](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S03A.pdf)
 - [Parameter Estimation II](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S03B.pdf)

@@ -31,7 +31,10 @@ asks learners to estimate Gaussian class statistics, inspect posterior
 probabilities, and compare equal-cost with asymmetric-cost decisions on
 synthetic data.
 
-## Public handouts
+## Lecture handouts
+
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
 
 - [Bayesian Decision Theory I](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S02A.pdf)
 - [Bayesian Decision Theory II](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S02B.pdf)

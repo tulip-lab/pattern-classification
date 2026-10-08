@@ -27,7 +27,10 @@ After completing this module, learners should be able to:
 compares class-conditional kernel-density and nearest-neighbour classifiers
 under the same data split and evaluation protocol.
 
-## Public handouts
+## Lecture handouts
+
+These downloadable PDFs are password-protected. The password is supplied in
+class when the relevant handout is introduced.
 
 - [Nonparametric Estimation I](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S05A.pdf)
 - [Nonparametric Estimation II](https://github.com/tulip-lab/handouts/blob/main/PR/PR-S05B.pdf)
