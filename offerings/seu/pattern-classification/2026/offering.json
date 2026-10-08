@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "institution": "seu",
+  "unit": "pattern-classification",
+  "offering": "2026",
+  "course_code": "SEU-PR2026",
+  "course_name": "Pattern Classification",
+  "status": "active",
+  "release_status": "published-student-facing",
+  "contact_hours": 40,
+  "delivery_weeks": 4,
+  "primary_student_site": "https://github.com/tulip-lab/pattern-classification",
+  "practical_repository": "https://github.com/tulip-lab/pattern-classification-lab/tree/develop",
+  "course_communication": {
+    "qq_group_name": "SEU-PR2026",
+    "qq_group_number": "1126406077",
+    "teaching_assistant": "王扬翰",
+    "teaching_assistant_qq": "1694140651"
+  },
+  "common_core_modules": ["M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "M11"],
+  "public_assignments": {
+    "a1": "https://github.com/tulip-lab/pattern-classification-lab/tree/develop/Assignments/frontier-ai-presentation",
+    "a2": "https://github.com/tulip-lab/pattern-classification-lab/tree/develop/Assignments/tourism-demand-forecasting"
+  },
+  "combined_submission": {
+    "recipient": "teaching assistant 王扬翰",
+    "group_id_pattern": "Group-NAME",
+    "group_name_rule": "NAME contains 1-8 ASCII letters or digits",
+    "root_directory_pattern": "Group-NAME-A1-A2",
+    "archive_pattern": "Group-NAME-A1-A2.zip",
+    "email_subject_if_requested": "[A1+A2] - Group-NAME",
+    "a1_and_a2_submitted_separately": false,
+    "cloud_service_if_requested": "OneDrive"
+  },
+  "canonical_private_source": "pattern-classification-Instructor/offerings/seu/2026/pattern-classification",
+  "source_package_version": "0.25-submission-evidence-clarified-private-draft"
+}
