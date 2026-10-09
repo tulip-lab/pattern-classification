@@ -20,6 +20,34 @@ The current 2026 SEU offering is:
 
 You should be comfortable with introductory probability and statistics, linear algebra, basic Python, and interpreting tables and visualisations. Prior machine-learning experience is useful but not required.
 
+## Recommended textbooks
+
+Listed from newest to oldest:
+
+1. **Kevin P. Murphy (2023), *Probabilistic Machine Learning: Advanced Topics*.**
+   [Author-hosted book and supporting code](https://probml.github.io/book2) · [MIT Press](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/)
+   The recommended current companion for probabilistic modelling, Monte Carlo inference, Gaussian processes, and decision making under uncertainty.
+2. **David J. C. MacKay (2003), *Information Theory, Inference, and Learning Algorithms*.**
+   [Author-hosted open book](https://www.inference.org.uk/itprnn/book.pdf) · [Cambridge University Press](https://www.cambridge.org/9780521642989)
+   A conceptual bridge across information theory, Bayesian inference, sampling, coding, and learning algorithms.
+3. **Richard O. Duda, Peter E. Hart, and David G. Stork (2001), *Pattern Classification*, 2nd ed.**
+   [Wiley](https://www.wiley.com/en-gb/Pattern%2BClassification%2C%2B2nd%2BEdition-p-9780471056690)
+   The classical course foundation for Bayesian decision theory, density estimation, discriminant functions, and classifier design.
+
+## Companion lab site
+
+The [Pattern Classification Lab](https://github.com/tulip-lab/pattern-classification-lab/tree/develop) is the practical companion to this course portal. This repository provides the common-core concepts, learning outcomes, module overviews, and offering links; the Lab provides the runnable notebooks, public data, implementation exercises, practical instructions, and reproducibility workflow.
+
+Use the two sites together:
+
+1. begin with the conceptual overview for a module in this portal;
+2. open the matching practical from the module table below or the Lab's [module list](https://github.com/tulip-lab/pattern-classification-lab/tree/develop#modules);
+3. run the baseline notebook before changing it;
+4. inspect intermediate results and test edge, missing-information, and failure behaviour; and
+5. restart and run the notebook from the top, then retain the requested evidence and limitations.
+
+For curriculum design and contribution work, the Lab's [curriculum alignment and coverage map](https://github.com/tulip-lab/pattern-classification-lab/blob/develop/PRACTICAL-MAP.md) records how practical evidence aligns with the `M01`–`M11` common core and identifies known coverage gaps. Most notebook activities can be run in [Google Colab](https://colab.research.google.com) without a paid service or credential.
+
 ## Course outcomes
 
 After completing the relevant modules, you should be able to:
