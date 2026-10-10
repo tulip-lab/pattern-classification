@@ -10,7 +10,7 @@
 | Course code | `SEU-PR2026` |
 | Course name | Pattern Classification |
 | Contact hours | 40 hours across four weeks |
-| Group size | Normally three students; maximum four |
+| Group size | One or two students; maximum two |
 | Teaching assistant | 王扬翰; QQ `1694140651` |
 | Course communication | QQ group `SEU-PR2026`; group number `1126406077` |
 
